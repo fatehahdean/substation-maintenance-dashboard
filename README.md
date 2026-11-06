@@ -33,3 +33,4 @@ An Excel Power Query and Power BI project using fictional substation data.
 - `substation_dashboard.pbix`: Power BI report
 - `data/raw/`: generated CSVs
 - `screenshots/dashboard.png`
+  <img width="967" height="550" alt="Screenshot 2026-11-06 162415" src="https://github.com/user-attachments/assets/b9ba6a0d-04d1-47d0-bbcd-30e7d62b31a8" />
