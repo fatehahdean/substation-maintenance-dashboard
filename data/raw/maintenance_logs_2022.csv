@@ -1,0 +1,619 @@
+Log_ID,Site_Code,Site_Name,Equipment_Type,Equipment_ID,Fault_Type,Date_Reported,Date_Resolved,Outage_Minutes,Priority,Status
+LOG-0147,SS-01,Bukit Hijau,Cable,SS-01-CAB-05,Voltage anomaly,2022-01-18 03:19,2022-01-18 07:56,41,Medium,Closed
+LOG-0308,SS-01,Bukit Hijau,Transformer,SS-01-TRA-02,Switchgear alarm,31-Dec-2022 07:06,31-Dec-2022 08:35,23,Low,Closed
+LOG-0266,SS-01,BUKIT HIJAU,Cable,SS-01-CAB-03,Switchgear alarm,2022-02-11 00:01,2022-02-11 02:17,12,Low,Closed
+LOG-0545,SS-04,Lembah Biru,CT/VT,SS-04-CTV-03,Vegetation contact,18/06/2022 23:03,19/06/2022 03:43,133,Medium,Closed
+LOG-0391,SS-02,Sungai Kelana,Transformer,SS-02-TRA-02,Cable fault,2022-09-22 00:21,2022-09-22 10:15,139,High,Closed
+LOG-0314,SS-05,Jalan Seri,RMU,SS-05-RMU-05,Voltage anomaly,08-Apr-2022 15:06,08/04/2022 19:41,38,Medium,Closed
+LOG-0294,SS-04,Lembah Biru,CT/VT,SS-04-CTV-03,Cable fault,06-May-2022 17:14,2022-05-07 02:50,209,High,Closed
+LOG-0418,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-03,Vegetation contact,2022-08-03 09:05,,,Medium,Open
+LOG-0312,SS-05,Jalan Seri,Cable,SS-05-CAB-01,Voltage anomaly,2022-11-13 04:30,2022-11-13 06:09,38,Medium,Closed
+LOG-0520,SS-02,Sungai Kelana,Cable,SS-02-CAB-02,Vegetation contact,2022-02-07 10:28,07-Feb-2022 15:48,80,Medium,Closed
+LOG-0594,SS-04,SS lembah biru,Circuit Breaker,SS-04-CIR-05,Pole damage,29-Aug-2022 10:29,,,Medium,Open
+LOG-0195,SS-03,Taman Mawar,Switchgear,SS-03-SWI-02,Pole damage,2022-11-13 02:11,2022-11-13 13:59,199,Medium,Closed
+LOG-0421,SS-04,Lembah Biru,Transformer,SS-04-TRA-02,Voltage anomaly,2022-05-22 22:09,2022-05-23 02:08,35,Medium,Closed
+LOG-0393,SS-05,Jalan Seri,Switchgear,SS-05-SWI-03,Voltage anomaly,2022-02-23 00:53,2022-02-23 04:12,80,Medium,Closed
+LOG-0438,SS-03,Taman Mawar,RMU,SS-03-RMU-02,Transformer oil issue,23-Oct-2022 20:37,2022-10-24 13:23,63,High,Closed
+LOG-0435,SS-01,Bukit Hijau,Transformer,SS-01-TRA-02,Cable fault,2022-03-01 19:22,2022-03-02 04:30,294,High,Closed
+LOG-0072,SS-01,Bukit Hijau,Transformer,SS-01-TRA-03,Vegetation contact,2022-05-17 03:34,2022-05-17 08:01,72,Medium,Closed
+LOG-0370,SS-02,Sungai Kelana,Cable,SS-02-CAB-03,Cable fault,27/05/2022 19:43,28-May-2022 06:39,223,High,Closed
+LOG-0033,SS-05,Jalan Seri,Switchgear,SS-05-SWI-02,Vegetation contact,12-Jun-2022 05:57,2022-06-12 09:39,89,Medium,Closed
+LOG-0050,SS-01,Bukit Hijau,Transformer,SS-01-TRA-01,Switchgear alarm,2022-07-09 08:40,2022-07-09 11:04,27,Low,Closed
+LOG-0315,SS-05,Jalan Seri,RMU,SS-05-RMU-05,Cable fault,2022-04-12 12:20,13/04/2022 02:30,136,High,Closed
+LOG-0238,SS-05,JALAN SERI,RMU,SS-05-RMU-02,Voltage anomaly,10-Oct-2022 11:12,2022-10-10 14:22,60,Medium,Closed
+LOG-0197,SS-02,SS sungai kelana,Cable,SS-02-CAB-03,Cable fault,2022-11-30 19:35,2022-12-01 03:46,366,High,Closed
+LOG-0181,SS-02,Sungai Kelana,Cable,SS-02-CAB-01,Vegetation contact,18/03/2022 17:06,2022-03-18 19:20,56,Medium,Closed
+LOG-0330,SS-03,Taman Mawar,RMU,SS-03-RMU-01,Cable fault,2022-04-21 05:17,2022-04-21 12:04,253,High,Closed
+LOG-0397,SS-01,Bukit Hijau,Transformer,SS-01-TRA-04,Transformer oil issue,25/01/2022 06:42,2022-01-25 14:19,33,High,Closed
+LOG-0243,SS-05,Jalan Seri,RMU,SS-05-RMU-02,Cable joint failure,2022-05-24 02:47,2022-05-24 13:47,147,High,Closed
+LOG-0524,SS-05,JALAN SERI,Switchgear,SS-05-SWI-03,Cable fault,2022-02-24 03:31,2022-02-24 11:15,356,High,Closed
+LOG-0252,SS-04,SS lembah biru,Transformer,SS-04-TRA-04,Voltage anomaly,2022-08-07 11:22,2022-08-07 13:19,35,Medium,Closed
+LOG-0121,SS-01,Bukit Hijau,Transformer,SS-01-TRA-02,Cable fault,2022-08-07 04:40,2022-08-07 13:49,400,High,Closed
+LOG-0556,SS-01,BUKIT HIJAU,Cable,SS-01-CAB-05,Transformer oil issue,2022-08-11 20:51,12/08/2022 04:24,77,High,Closed
+LOG-0487,SS-05,Jalan Seri,RMU,SS-05-RMU-01,Switchgear alarm,2022-10-01 07:18,01-Oct-2022 08:10,30,Low,Closed
+LOG-0504,SS-01,Bukit Hijau,Circuit Breaker,SS-01-CIR-03,Switchgear alarm,2022-11-16 20:46,16-Nov-2022 21:48,12,Low,Closed
+LOG-0007,SS-03,Taman Mawar,Switchgear,SS-03-SWI-03,Cable fault,2022-01-08 08:39,08/01/2022 12:14,275,High,Closed
+LOG-0374,SS-03,Taman Mawar,RMU,SS-03-RMU-03,Voltage anomaly,02/04/2022 00:38,02/04/2022 03:24,56,Medium,Closed
+LOG-0306,SS-05,SS jalan seri,Cable,SS-05-CAB-01,Transformer oil issue,2022-05-15 14:03,2022-05-16 01:56,104,High,Closed
+LOG-0173,SS-02,Sungai Kelana,Cable,SS-02-CAB-01,Transformer oil issue,07-Dec-2022 18:08,2022-12-08 07:32,77,High,Closed
+LOG-0154,SS-04,Lembah Biru,Transformer,SS-04-TRA-02,Switchgear alarm,2022-01-09 08:34,2022-01-09 09:13,40,Low,Closed
+LOG-0372,SS-01,Bukit Hijau,Transformer,SS-01-TRA-05,Cable fault,02-Jul-2022 03:05,2022-07-02 19:30,185,High,Closed
+LOG-0160,SS-02,Sungai Kelana,Transformer,SS-02-TRA-01,Vegetation contact,23-Sep-2022 12:04,2022-09-23 15:14,71,Medium,Closed
+LOG-0574,SS-05,Jalan Seri,Cable,SS-05-CAB-02,Cable fault,20/10/2022 03:07,2022-10-20 08:16,61,High,Closed
+LOG-0007,SS-03,Taman Mawar,Switchgear,SS-03-SWI-03,Cable fault,2022-01-08 08:39,08/01/2022 12:14,275,High,Closed
+LOG-0136,SS-03,Taman Mawar,RMU,SS-03-RMU-01,Switchgear alarm,2022-04-18 11:35,2022-04-18 13:35,23,Low,Closed
+LOG-0233,SS-03,Taman Mawar,Switchgear,SS-03-SWI-03,Cable joint failure,2022-05-30 20:13,2022-05-31 07:56,242,High,Closed
+LOG-0227,SS-01,Bukit Hijau,Transformer,SS-01-TRA-04,Switchgear alarm,2022-09-26 01:05,2022-09-26 04:10,61,Low,Closed
+LOG-0408,SS-05,Jalan Seri,Cable,SS-05-CAB-02,Cable fault,2022-07-03 23:02,2022-07-04 05:02,114,High,Closed
+LOG-0471,SS-04,Lembah Biru,CT/VT,SS-04-CTV-01,Vegetation contact,2022-09-25 09:45,2022-09-25 14:14,63,Medium,Closed
+LOG-0531,SS-03,TAMAN MAWAR,Switchgear,SS-03-SWI-03,Pole damage,13-Nov-2022 09:50,13-Nov-2022 19:37,51,Medium,Closed
+LOG-0466,SS-04,LEMBAH BIRU,CT/VT,SS-04-CTV-03,Voltage anomaly,2022-11-03 21:08,04-Nov-2022 00:23,39,Medium,Closed
+LOG-0240,SS-05,Jalan Seri,Switchgear,SS-05-SWI-02,Vegetation contact,2022-03-21 22:51,22/03/2022 02:27,200,Medium,Closed
+LOG-0434,SS-03,Taman Mawar,RMU,SS-03-RMU-03,Cable fault,22-Jun-2022 02:44,2022-06-22 10:33,153,High,Closed
+LOG-0137,SS-01,SS bukit hijau,Transformer,SS-01-TRA-02,Voltage anomaly,2022-12-19 04:27,2022-12-19 07:03,99,Medium,Closed
+LOG-0201,SS-01,Bukit Hijau,Transformer,SS-01-TRA-04,Transformer oil issue,2022-07-24 02:35,2022-07-25 10:28,46,High,Closed
+LOG-0428,SS-03,Taman Mawar,RMU,SS-03-RMU-03,Voltage anomaly,2022-08-28 18:30,2022-08-28 22:23,58,Medium,Closed
+LOG-0481,SS-04,Lembah Biru,Transformer,SS-04-TRA-03,Voltage anomaly,2022-05-25 17:22,2022-05-25 21:27,84,Medium,Closed
+LOG-0532,SS-05,Jalan Seri,RMU,SS-05-RMU-01,Vegetation contact,2022-01-05 14:13,05/01/2022 17:53,116,Medium,Closed
+LOG-0416,SS-04,SS lembah biru,Circuit Breaker,SS-04-CIR-01,Pole damage,2022-02-22 05:54,2022-02-22 11:57,65,Medium,Closed
+LOG-0553,SS-01,Bukit Hijau,Transformer,SS-01-TRA-05,Voltage anomaly,07/02/2022 20:04,2022-02-07 22:09,84,Medium,Closed
+LOG-0011,SS-01,Bukit Hijau,Cable,SS-01-CAB-05,Cable fault,2022-12-16 12:05,16/12/2022 19:49,233,High,Closed
+LOG-0459,SS-04,Lembah Biru,CT/VT,SS-04-CTV-03,Vegetation contact,2022-11-02 12:03,2022-11-02 15:23,55,Medium,Closed
+LOG-0569,SS-05,Jalan Seri,Switchgear,SS-05-SWI-02,Switchgear alarm,2022-08-06 22:07,2022-08-07 01:25,38,Low,Closed
+LOG-0579,SS-04,Lembah Biru,Transformer,SS-04-TRA-01,Switchgear alarm,2022-07-05 02:09,2022-07-05 06:10,16,Low,Closed
+LOG-0595,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-03,Voltage anomaly,11/04/2022 01:56,2022-04-11 03:57,38,Medium,Closed
+LOG-0184,SS-05,SS jalan seri,Switchgear,SS-05-SWI-01,Cable fault,2022-06-23 15:34,2022-06-23 22:13,231,High,Closed
+LOG-0290,SS-05,Jalan Seri,RMU,SS-05-RMU-02,Cable fault,01-Mar-2022 05:05,2022-03-01 12:08,105,High,Closed
+LOG-0105,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-02,Vegetation contact,14/08/2022 21:32,2022-08-15 02:55,67,Medium,Closed
+LOG-0035,SS-02,Sungai Kelana,Cable,SS-02-CAB-02,Switchgear alarm,15/06/2022 20:42,2022-06-15 23:46,17,Low,Closed
+LOG-0549,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-03,Pole damage,2022-11-08 13:10,08-Nov-2022 17:51,165,Medium,Closed
+LOG-0547,SS-01,Bukit Hijau,Transformer,SS-01-TRA-05,Switchgear alarm,2022-03-04 15:38,,,Low,Open
+LOG-0249,SS-05,Jalan Seri,Cable,SS-05-CAB-04,Pole damage,2022-09-23 05:08,23-Sep-2022 10:27,106,Medium,Closed
+LOG-0384,SS-04,Lembah Biru,CT/VT,SS-04-CTV-02,Transformer oil issue,18/03/2022 07:30,2022-03-18 22:41,51,High,Closed
+LOG-0064,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-03,Cable fault,2022-06-08 09:09,2022-06-08 17:10,169,High,Closed
+LOG-0229,SS-03,Taman Mawar,RMU,SS-03-RMU-01,Cable fault,2022-01-02 23:29,03/01/2022 10:47,87,High,Closed
+LOG-0169,SS-05,Jalan Seri,RMU,SS-05-RMU-01,Voltage anomaly,29-Jul-2022 01:15,2022-07-29 02:28,71,Medium,Closed
+LOG-0189,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-02,Vegetation contact,01-Feb-2022 22:14,2022-02-02 03:32,134,Medium,Closed
+LOG-0162,SS-01,BUKIT HIJAU,Cable,SS-01-CAB-04,Cable fault,2022-11-20 22:04,2022-11-21 08:22,132,High,Closed
+LOG-0137,SS-01,SS bukit hijau,Transformer,SS-01-TRA-02,Voltage anomaly,2022-12-19 04:27,2022-12-19 07:03,99,Medium,Closed
+LOG-0094,SS-05,Jalan Seri,Switchgear,SS-05-SWI-03,Pole damage,02-Mar-2022 10:46,2022-03-02 17:34,94,Medium,Closed
+LOG-0265,SS-01,SS bukit hijau,Transformer,SS-01-TRA-03,Transformer oil issue,2022-09-28 12:05,29-Sep-2022 11:26,72,High,Closed
+LOG-0525,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-01,Switchgear alarm,2022-11-13 20:11,13-Nov-2022 22:02,33,Low,Closed
+LOG-0563,SS-05,Jalan Seri,Cable,SS-05-CAB-03,Transformer oil issue,2022-08-12 11:00,2022-08-13 17:28,67,High,Closed
+LOG-0356,SS-05,Jalan Seri,Cable,SS-05-CAB-03,Cable fault,10-Jan-2022 01:07,10-Jan-2022 11:57,91,High,Closed
+LOG-0002,SS-05,Jalan Seri,Cable,SS-05-CAB-04,Vegetation contact,25-Nov-2022 11:18,2022-11-25 20:17,46,Medium,Closed
+LOG-0426,SS-02,Sungai Kelana,Transformer,SS-02-TRA-03,Switchgear alarm,13/05/2022 09:19,2022-05-13 11:21,9,Low,Closed
+LOG-0285,SS-05,Jalan Seri,RMU,SS-05-RMU-04,Vegetation contact,17/01/2022 20:43,2022-01-17 22:58,58,Medium,Closed
+LOG-0265,SS-01,SS bukit hijau,Transformer,SS-01-TRA-03,Transformer oil issue,2022-09-28 12:05,29-Sep-2022 11:26,72,High,Closed
+LOG-0183,SS-03,Taman Mawar,Switchgear,SS-03-SWI-04,Voltage anomaly,2022-06-02 04:59,2022-06-02 06:33,43,Medium,Closed
+LOG-0494,SS-05,SS jalan seri,Cable,SS-05-CAB-01,Cable fault,19/01/2022 23:15,2022-01-20 06:46,123,High,Closed
+LOG-0224,SS-03,SS taman mawar,Switchgear,SS-03-SWI-04,Pole damage,2022-07-31 04:29,31-Jul-2022 10:14,95,Medium,Closed
+LOG-0068,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-03,Cable fault,2022-11-22 20:48,2022-11-23 07:45,190,High,Closed
+LOG-0034,SS-05,Jalan Seri,Switchgear,SS-05-SWI-03,Pole damage,06-Feb-2022 21:14,2022-02-07 05:08,119,Medium,Closed
+LOG-0462,SS-04,Lembah Biru,CT/VT,SS-04-CTV-02,Transformer oil issue,16/07/2022 16:09,2022-07-17 09:43,175,High,Closed
+LOG-0223,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-03,Pole damage,2022-05-10 10:41,2022-05-10 12:18,206,Medium,Closed
+LOG-0518,SS-01,Bukit Hijau,Circuit Breaker,SS-01-CIR-03,Transformer oil issue,02/01/2022 00:37,03/01/2022 04:08,48,High,Closed
+LOG-0447,SS-05,Jalan Seri,Switchgear,SS-05-SWI-02,Voltage anomaly,2022-09-21 16:42,2022-09-21 18:55,64,Medium,Closed
+LOG-0044,SS-05,Jalan Seri,RMU,SS-05-RMU-05,Vegetation contact,2022-12-31 21:37,2023-01-01 02:11,52,Medium,Closed
+LOG-0580,SS-01,BUKIT HIJAU,Circuit Breaker,SS-01-CIR-02,Cable fault,2022-11-13 00:49,2022-11-13 08:11,148,High,Closed
+LOG-0172,SS-04,Lembah Biru,CT/VT,SS-04-CTV-01,Vegetation contact,2022-12-12 00:13,2022-12-12 05:14,72,Medium,Closed
+LOG-0253,SS-01,Bukit Hijau,Transformer,SS-01-TRA-05,Vegetation contact,2022-02-05 01:30,2022-02-05 07:29,88,Medium,Closed
+LOG-0153,SS-02,Sungai Kelana,Cable,SS-02-CAB-01,Cable joint failure,2022-01-27 22:16,2022-01-28 09:26,258,High,Closed
+LOG-0561,SS-05,Jalan Seri,Cable,SS-05-CAB-01,Voltage anomaly,2022-09-05 16:32,05/09/2022 20:35,29,Medium,Closed
+LOG-0187,SS-03,Taman Mawar,Switchgear,SS-03-SWI-05,Cable fault,2022-10-29 10:14,2022-10-29 19:05,62,High,Closed
+LOG-0331,SS-02,Sungai Kelana,Transformer,SS-02-TRA-03,Cable fault,2022-11-15 10:01,15/11/2022 19:03,151,High,Closed
+LOG-0401,SS-01,Bukit Hijau,Cable,SS-01-CAB-02,Voltage anomaly,2022-06-25 07:13,25/06/2022 11:11,35,Medium,Closed
+LOG-0040,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-03,Voltage anomaly,11-Apr-2022 20:12,2022-04-11 23:34,60,Medium,Closed
+LOG-0060,SS-01,Bukit Hijau,Circuit Breaker,SS-01-CIR-02,Vegetation contact,2022-11-04 01:17,04-Nov-2022 06:11,66,Medium,Closed
+LOG-0491,SS-05,Jalan Seri,Switchgear,SS-05-SWI-01,Voltage anomaly,23-Jul-2022 13:01,23/07/2022 15:22,21,Medium,Closed
+LOG-0407,SS-02,SUNGAI KELANA,Switchgear,SS-02-SWI-01,Vegetation contact,20/01/2022 14:53,2022-01-20 17:01,131,Medium,Closed
+LOG-0599,SS-03,Taman Mawar,Switchgear,SS-03-SWI-04,Cable fault,2022-12-22 05:50,22/12/2022 15:47,237,High,Closed
+LOG-0445,SS-01,Bukit Hijau,Circuit Breaker,SS-01-CIR-02,Vegetation contact,06-Aug-2022 04:29,,,Medium,Open
+LOG-0260,SS-03,Taman Mawar,RMU,SS-03-RMU-03,Switchgear alarm,2022-04-08 00:42,2022-04-08 03:09,50,Low,Closed
+LOG-0141,SS-02,SUNGAI KELANA,Cable,SS-02-CAB-01,Transformer oil issue,20/02/2022 15:29,21/02/2022 00:02,20,High,Closed
+LOG-0186,SS-02,SUNGAI KELANA,Switchgear,SS-02-SWI-01,Vegetation contact,2022-05-12 23:29,13/05/2022 06:01,56,Medium,Closed
+LOG-0227,SS-01,Bukit Hijau,Transformer,SS-01-TRA-04,Switchgear alarm,2022-09-26 01:05,2022-09-26 04:10,61,Low,Closed
+LOG-0555,SS-01,Bukit Hijau,Cable,SS-01-CAB-02,Transformer oil issue,2022-11-20 16:34,2022-11-21 06:06,64,High,Closed
+LOG-0432,SS-03,Taman Mawar,Cable,SS-03-CAB-02,Pole damage,23/05/2022 08:13,2022-05-23 21:51,171,Medium,Closed
+LOG-0080,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-03,Switchgear alarm,2022-05-22 02:00,22/05/2022 03:35,23,Low,Closed
+LOG-0194,SS-03,Taman Mawar,Switchgear,SS-03-SWI-05,Switchgear alarm,2022-10-23 22:45,2022-10-24 00:07,27,Low,Closed
+LOG-0115,SS-05,Jalan Seri,Switchgear,SS-05-SWI-01,Vegetation contact,2022-12-18 05:32,2022-12-18 08:15,145,Medium,Closed
+LOG-0158,SS-01,Bukit Hijau,Transformer,SS-01-TRA-04,Transformer oil issue,08/05/2022 11:40,2022-05-08 21:28,96,High,Closed
+LOG-0359,SS-01,Bukit Hijau,Cable,SS-01-CAB-04,Switchgear alarm,2022-10-05 01:52,2022-10-05 03:52,46,Low,Closed
+LOG-0110,SS-03,Taman Mawar,Switchgear,SS-03-SWI-03,Cable joint failure,16-Sep-2022 01:20,2022-09-16 06:08,175,High,Closed
+LOG-0284,SS-03,Taman Mawar,Switchgear,SS-03-SWI-02,Cable joint failure,2022-06-12 00:11,,,High,Open
+LOG-0275,SS-04,LEMBAH BIRU,Circuit Breaker,SS-04-CIR-03,Transformer oil issue,22/03/2022 14:19,2022-03-23 04:50,66,High,Closed
+LOG-0232,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-02,Cable joint failure,2022-07-04 14:18,04-Jul-2022 22:57,92,High,Closed
+LOG-0026,SS-02,Sungai Kelana,Cable,SS-02-CAB-01,Switchgear alarm,24/07/2022 11:49,2022-07-24 14:17,32,Low,Closed
+LOG-0444,SS-04,Lembah Biru,CT/VT,SS-04-CTV-05,Transformer oil issue,21/08/2022 15:49,2022-08-21 22:21,40,High,Closed
+LOG-0128,SS-05,JALAN SERI,RMU,SS-05-RMU-01,Voltage anomaly,25-Jul-2022 22:59,2022-07-26 01:10,40,Medium,Closed
+LOG-0498,SS-04,Lembah Biru,CT/VT,SS-04-CTV-03,Switchgear alarm,17/07/2022 02:37,2022-07-17 05:44,31,Low,Closed
+LOG-0543,SS-04,Lembah Biru,Transformer,SS-04-TRA-02,Voltage anomaly,2022-03-06 02:52,06-Mar-2022 06:00,101,Medium,Closed
+LOG-0492,SS-05,Jalan Seri,Cable,SS-05-CAB-04,Cable fault,2022-10-23 00:21,23/10/2022 04:29,159,High,Closed
+LOG-0244,SS-05,Jalan Seri,RMU,SS-05-RMU-01,Vegetation contact,27/09/2022 08:08,2022-09-27 13:18,152,Medium,Closed
+LOG-0005,SS-04,SS lembah biru,Transformer,SS-04-TRA-02,Cable fault,2022-02-15 22:14,2022-02-16 04:24,309,High,Closed
+LOG-0564,SS-02,Sungai Kelana,Transformer,SS-02-TRA-02,Voltage anomaly,2022-03-09 10:15,2022-03-09 12:38,47,Medium,Closed
+LOG-0094,SS-05,Jalan Seri,Switchgear,SS-05-SWI-03,Pole damage,02-Mar-2022 10:46,2022-03-02 17:34,94,Medium,Closed
+LOG-0041,SS-01,Bukit Hijau,Cable,SS-01-CAB-01,Voltage anomaly,02/04/2022 03:17,2022-04-02 05:34,49,Medium,Closed
+LOG-0402,SS-02,Sungai Kelana,Cable,SS-02-CAB-03,Switchgear alarm,2022-03-27 10:41,2022-03-27 12:34,44,Low,Closed
+LOG-0409,SS-04,Lembah Biru,CT/VT,SS-04-CTV-04,Cable joint failure,03-Jul-2022 17:58,2022-07-04 01:00,274,High,Closed
+LOG-0544,SS-05,Jalan Seri,Cable,SS-05-CAB-04,Pole damage,10/07/2022 03:38,2022-07-10 13:22,89,Medium,Closed
+LOG-0152,SS-01,SS bukit hijau,Cable,SS-01-CAB-05,Pole damage,2022-01-10 08:56,2022-01-10 12:40,165,Medium,Closed
+LOG-0583,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-03,Pole damage,2022-03-01 20:58,2022-03-02 03:27,63,Medium,Closed
+LOG-0092,SS-01,Bukit Hijau,Circuit Breaker,SS-01-CIR-02,Cable joint failure,15-Aug-2022 09:03,2022-08-15 18:10,206,High,Closed
+LOG-0132,SS-03,Taman Mawar,RMU,SS-03-RMU-01,Voltage anomaly,2022-09-14 20:22,2022-09-15 03:17,18,Medium,Closed
+LOG-0367,SS-05,Jalan Seri,RMU,SS-05-RMU-01,Cable joint failure,2022-12-17 15:14,2022-12-17 21:45,133,High,Closed
+LOG-0237,SS-05,JALAN SERI,RMU,SS-05-RMU-02,Switchgear alarm,2022-05-29 03:23,2022-05-29 04:50,19,Low,Closed
+LOG-0346,SS-05,Jalan Seri,Cable,SS-05-CAB-02,Transformer oil issue,2022-06-10 12:43,11-Jun-2022 01:16,52,High,Closed
+LOG-0247,SS-05,Jalan Seri,Switchgear,SS-05-SWI-02,Switchgear alarm,2022-11-20 20:10,2022-11-20 21:46,38,Low,Closed
+LOG-0385,SS-02,SS sungai kelana,Switchgear,SS-02-SWI-03,Vegetation contact,2022-03-15 20:49,2022-03-16 01:48,56,Medium,Closed
+LOG-0417,SS-04,Lembah Biru,CT/VT,SS-04-CTV-05,Cable fault,2022-07-04 07:35,2022-07-04 16:18,140,High,Closed
+LOG-0493,SS-05,Jalan Seri,Cable,SS-05-CAB-03,Voltage anomaly,2022-07-06 00:23,2022-07-06 03:47,40,Medium,Closed
+LOG-0577,SS-01,Bukit Hijau,Cable,SS-01-CAB-02,Cable fault,2022-01-29 23:36,2022-01-30 08:53,91,High,Closed
+LOG-0268,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-01,Switchgear alarm,23/01/2022 01:05,23-Jan-2022 02:32,15,Low,Closed
+LOG-0163,SS-04,Lembah Biru,CT/VT,SS-04-CTV-05,Switchgear alarm,2022-11-11 01:49,2022-11-11 05:55,41,Low,Closed
+LOG-0078,SS-05,Jalan Seri,Switchgear,SS-05-SWI-01,Cable fault,19/08/2022 19:44,2022-08-20 00:48,452,High,Closed
+LOG-0368,SS-05,Jalan Seri,Switchgear,SS-05-SWI-03,Pole damage,2022-03-11 14:12,2022-03-11 23:07,168,Medium,Closed
+LOG-0008,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-01,Transformer oil issue,15-Dec-2022 11:18,2022-12-15 17:07,56,High,Closed
+LOG-0400,SS-05,Jalan Seri,Cable,SS-05-CAB-02,Cable joint failure,2022-09-05 18:22,2022-09-06 02:42,141,High,Closed
+LOG-0142,SS-03,Taman Mawar,RMU,SS-03-RMU-01,Voltage anomaly,2022-02-10 23:21,2022-02-11 03:07,40,Medium,Closed
+LOG-0235,SS-05,Jalan Seri,Cable,SS-05-CAB-03,Vegetation contact,02-Mar-2022 01:50,2022-03-02 04:41,87,Medium,Closed
+LOG-0280,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-03,Cable joint failure,2022-05-11 22:31,2022-05-12 10:16,169,High,Closed
+LOG-0217,SS-05,Jalan Seri,Cable,SS-05-CAB-02,Voltage anomaly,2022-01-15 04:47,2022-01-15 07:18,81,Medium,Closed
+LOG-0222,SS-05,Jalan Seri,RMU,SS-05-RMU-03,Cable joint failure,2022-08-04 21:22,05-Aug-2022 07:43,196,High,Closed
+LOG-0101,SS-01,Bukit Hijau,Circuit Breaker,SS-01-CIR-03,Voltage anomaly,2022-04-29 08:27,2022-04-29 12:07,60,Medium,Closed
+LOG-0398,SS-03,Taman Mawar,Switchgear,SS-03-SWI-01,Transformer oil issue,26-Sep-2022 17:28,27/09/2022 13:23,39,High,Closed
+LOG-0378,SS-04,Lembah Biru,CT/VT,SS-04-CTV-05,Pole damage,2022-11-26 01:26,2022-11-26 09:36,272,Medium,Closed
+LOG-0522,SS-01,Bukit Hijau,Cable,SS-01-CAB-01,Switchgear alarm,2022-09-24 17:42,2022-09-24 19:13,67,Low,Closed
+LOG-0344,SS-04,Lembah Biru,CT/VT,SS-04-CTV-01,Pole damage,2022-05-04 05:17,2022-05-04 12:21,96,Medium,Closed
+LOG-0042,SS-02,SS sungai kelana,Switchgear,SS-02-SWI-03,Switchgear alarm,09-Jun-2022 19:32,2022-06-09 20:42,18,Low,Closed
+LOG-0373,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-03,Cable fault,2022-12-18 04:36,,,High,Open
+LOG-0178,SS-04,Lembah Biru,CT/VT,SS-04-CTV-03,Pole damage,2022-06-16 07:05,2022-06-16 16:49,81,Medium,Closed
+LOG-0117,SS-01,Bukit Hijau,Cable,SS-01-CAB-02,Transformer oil issue,2022-05-31 17:08,2022-06-01 20:34,47,High,Closed
+LOG-0338,SS-03,Taman Mawar,RMU,SS-03-RMU-03,Cable fault,2022-11-24 07:12,2022-11-24 15:08,200,High,Closed
+LOG-0413,SS-03,Taman Mawar,Cable,SS-03-CAB-01,Transformer oil issue,2022-02-09 05:29,,,High,Open
+LOG-0182,SS-05,Jalan Seri,Switchgear,SS-05-SWI-01,Transformer oil issue,2022-06-28 06:08,28/06/2022 20:27,72,High,Closed
+LOG-0216,SS-02,Sungai Kelana,Transformer,SS-02-TRA-01,Transformer oil issue,2022-10-25 14:20,25/10/2022 20:06,52,High,Closed
+LOG-0010,SS-03,TAMAN MAWAR,Cable,SS-03-CAB-02,Vegetation contact,2022-04-28 02:45,28-Apr-2022 06:19,86,Medium,Closed
+LOG-0210,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-03,Cable fault,2022-07-25 14:24,2022-07-26 02:36,129,High,Closed
+LOG-0586,SS-03,TAMAN MAWAR,Cable,SS-03-CAB-03,Cable joint failure,2022-05-10 16:05,2022-05-11 00:19,374,High,Closed
+LOG-0570,SS-03,Taman Mawar,Switchgear,SS-03-SWI-03,Vegetation contact,2022-09-19 03:01,2022-09-19 05:00,48,Medium,Closed
+LOG-0332,SS-04,Lembah Biru,CT/VT,SS-04-CTV-04,Cable fault,05-Jun-2022 12:17,2022-06-05 20:44,476,High,Closed
+LOG-0088,SS-04,Lembah Biru,CT/VT,SS-04-CTV-02,Cable fault,2022-05-19 12:12,2022-05-19 21:35,51,High,Closed
+LOG-0289,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-03,Cable joint failure,2022-10-01 18:15,2022-10-02 06:16,413,High,Closed
+LOG-0179,SS-01,Bukit Hijau,Circuit Breaker,SS-01-CIR-01,Vegetation contact,2022-06-23 21:02,2022-06-24 00:44,89,Medium,Closed
+LOG-0575,SS-03,Taman Mawar,Switchgear,SS-03-SWI-05,Voltage anomaly,07/04/2022 07:33,07-Apr-2022 10:13,37,Medium,Closed
+LOG-0536,SS-05,Jalan Seri,Switchgear,SS-05-SWI-01,Switchgear alarm,12/09/2022 09:18,2022-09-12 12:23,31,Low,Closed
+LOG-0301,SS-04,Lembah Biru,CT/VT,SS-04-CTV-01,Voltage anomaly,2022-12-31 15:29,31/12/2022 18:19,71,Medium,Closed
+LOG-0533,SS-01,Bukit Hijau,Transformer,SS-01-TRA-04,Voltage anomaly,2022-01-25 20:39,25/01/2022 23:18,82,Medium,Closed
+LOG-0199,SS-03,Taman Mawar,Switchgear,SS-03-SWI-02,Switchgear alarm,04-Oct-2022 03:43,2022-10-04 05:22,26,Low,Closed
+LOG-0220,SS-02,Sungai Kelana,Cable,SS-02-CAB-02,Vegetation contact,2022-11-05 03:33,2022-11-05 07:02,88,Medium,Closed
+LOG-0453,SS-01,SS bukit hijau,Transformer,SS-01-TRA-01,Transformer oil issue,2022-06-28 01:32,28-Jun-2022 12:43,71,High,Closed
+LOG-0246,SS-05,SS jalan seri,RMU,SS-05-RMU-04,Transformer oil issue,2022-09-17 07:39,2022-09-17 20:44,56,High,Closed
+LOG-0059,SS-04,SS lembah biru,Transformer,SS-04-TRA-01,Cable fault,07/10/2022 18:33,07/10/2022 22:53,110,High,Closed
+LOG-0255,SS-01,Bukit Hijau,Transformer,SS-01-TRA-05,Cable fault,2022-09-07 07:48,07/09/2022 17:26,236,High,Closed
+LOG-0300,SS-04,Lembah Biru,CT/VT,SS-04-CTV-02,Transformer oil issue,2022-07-10 20:59,2022-07-11 08:54,41,High,Closed
+LOG-0046,SS-05,Jalan Seri,Cable,SS-05-CAB-02,Pole damage,2022-10-11 10:40,2022-10-11 16:43,109,Medium,Closed
+LOG-0203,SS-03,Taman Mawar,RMU,SS-03-RMU-02,Vegetation contact,2022-01-06 19:14,2022-01-06 22:24,195,Medium,Closed
+LOG-0234,SS-05,Jalan Seri,Switchgear,SS-05-SWI-02,Vegetation contact,2022-10-26 12:47,26-Oct-2022 16:12,71,Medium,Closed
+LOG-0380,SS-03,SS taman mawar,Cable,SS-03-CAB-02,Cable fault,2022-10-08 05:43,2022-10-08 09:58,209,High,Closed
+LOG-0297,SS-02,Sungai Kelana,Cable,SS-02-CAB-03,Pole damage,21-Jan-2022 03:44,2022-01-21 10:00,79,Medium,Closed
+LOG-0389,SS-04,Lembah Biru,Transformer,SS-04-TRA-02,Cable fault,2022-12-18 00:11,,,High,Open
+LOG-0107,SS-01,Bukit Hijau,Transformer,SS-01-TRA-04,Vegetation contact,2022-06-04 03:09,2022-06-04 07:36,223,Medium,Closed
+LOG-0208,SS-03,Taman Mawar,Switchgear,SS-03-SWI-04,Pole damage,2022-06-09 12:11,09/06/2022 18:34,60,Medium,Closed
+LOG-0205,SS-01,Bukit Hijau,Cable,SS-01-CAB-05,Cable fault,2022-09-26 08:45,2022-09-26 17:17,153,High,Closed
+LOG-0122,SS-04,SS lembah biru,Circuit Breaker,SS-04-CIR-01,Voltage anomaly,2022-04-26 00:07,26-Apr-2022 02:25,59,Medium,Closed
+LOG-0119,SS-04,Lembah Biru,CT/VT,SS-04-CTV-01,Cable fault,2022-12-08 04:57,08/12/2022 12:27,134,High,Closed
+LOG-0530,SS-03,Taman Mawar,Switchgear,SS-03-SWI-03,Switchgear alarm,09/03/2022 05:41,09-Mar-2022 09:13,28,Low,Closed
+LOG-0559,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-03,Vegetation contact,2022-12-08 04:37,2022-12-08 06:32,82,Medium,Closed
+LOG-0129,SS-01,BUKIT HIJAU,Circuit Breaker,SS-01-CIR-02,Pole damage,2022-10-23 19:34,2022-10-24 03:06,139,Medium,Closed
+LOG-0336,SS-03,Taman Mawar,Switchgear,SS-03-SWI-05,Cable fault,27/07/2022 15:18,27-Jul-2022 23:32,181,High,Closed
+LOG-0295,SS-05,SS jalan seri,RMU,SS-05-RMU-04,Transformer oil issue,2022-05-27 04:59,2022-05-27 12:20,22,High,Closed
+LOG-0170,SS-01,Bukit Hijau,Transformer,SS-01-TRA-04,Pole damage,2022-03-17 03:00,17-Mar-2022 07:16,65,Medium,Closed
+LOG-0405,SS-03,Taman Mawar,Switchgear,SS-03-SWI-04,Switchgear alarm,03-Oct-2022 09:45,2022-10-03 12:27,22,Low,Closed
+LOG-0550,SS-02,SUNGAI KELANA,Cable,SS-02-CAB-01,Cable joint failure,2022-04-20 09:12,2022-04-20 22:05,230,High,Closed
+LOG-0514,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-02,Voltage anomaly,2022-10-22 13:17,2022-10-22 16:33,37,Medium,Closed
+LOG-0309,SS-03,Taman Mawar,Switchgear,SS-03-SWI-01,Vegetation contact,2022-12-15 15:17,2022-12-15 20:40,153,Medium,Closed
+LOG-0505,SS-05,Jalan Seri,RMU,SS-05-RMU-02,Switchgear alarm,21-Apr-2022 02:38,2022-04-21 04:27,36,Low,Closed
+LOG-0538,SS-01,Bukit Hijau,Transformer,SS-01-TRA-03,Transformer oil issue,30-Jun-2022 20:48,01/07/2022 08:06,139,High,Closed
+LOG-0279,SS-01,Bukit Hijau,Transformer,SS-01-TRA-05,Switchgear alarm,2022-11-22 20:45,2022-11-22 22:26,25,Low,Closed
+LOG-0454,SS-03,Taman Mawar,Switchgear,SS-03-SWI-04,Voltage anomaly,2022-02-09 12:55,09/02/2022 15:18,45,Medium,Closed
+LOG-0433,SS-01,Bukit Hijau,Cable,SS-01-CAB-02,Switchgear alarm,30/12/2022 13:09,30-Dec-2022 15:12,33,Low,Closed
+LOG-0585,SS-05,Jalan Seri,RMU,SS-05-RMU-02,Voltage anomaly,2022-03-12 01:38,12-Mar-2022 05:12,24,Medium,Closed
+LOG-0065,SS-04,Lembah Biru,CT/VT,SS-04-CTV-05,Cable fault,2022-12-05 04:00,05-Dec-2022 12:15,139,High,Closed
+LOG-0467,SS-04,Lembah Biru,Transformer,SS-04-TRA-02,Cable fault,2022-08-03 09:55,2022-08-03 19:20,262,High,Closed
+LOG-0248,SS-04,Lembah Biru,CT/VT,SS-04-CTV-05,Voltage anomaly,2022-12-10 07:43,2022-12-10 09:34,61,Medium,Closed
+LOG-0351,SS-01,Bukit Hijau,Transformer,SS-01-TRA-03,Vegetation contact,11-Aug-2022 09:36,2022-08-11 13:00,99,Medium,Closed
+LOG-0329,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-04,Vegetation contact,2022-08-29 12:50,2022-08-29 15:43,137,Medium,Closed
+LOG-0192,SS-01,Bukit Hijau,Transformer,SS-01-TRA-03,Pole damage,2022-12-31 03:06,31/12/2022 14:15,155,Medium,Closed
+LOG-0219,SS-01,Bukit Hijau,Transformer,SS-01-TRA-01,Cable joint failure,2022-05-22 21:08,2022-05-23 05:01,534,High,Closed
+LOG-0571,SS-01,Bukit Hijau,Transformer,SS-01-TRA-05,Pole damage,2022-11-25 05:35,2022-11-25 14:53,135,Medium,Closed
+LOG-0429,SS-03,TAMAN MAWAR,Switchgear,SS-03-SWI-03,Switchgear alarm,28/12/2022 01:31,2022-12-28 05:20,37,Low,Closed
+LOG-0395,SS-03,Taman Mawar,RMU,SS-03-RMU-03,Vegetation contact,2022-06-10 16:45,2022-06-10 21:14,123,Medium,Closed
+LOG-0519,SS-04,Lembah Biru,CT/VT,SS-04-CTV-01,Transformer oil issue,01-Dec-2022 06:33,2022-12-01 13:52,50,High,Closed
+LOG-0458,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-02,Switchgear alarm,2022-05-10 20:31,2022-05-10 21:10,43,Low,Closed
+LOG-0353,SS-05,Jalan Seri,RMU,SS-05-RMU-03,Switchgear alarm,2022-03-23 19:14,2022-03-23 23:27,37,Low,Closed
+LOG-0557,SS-03,Taman Mawar,RMU,SS-03-RMU-01,Vegetation contact,04/03/2022 22:51,05-Mar-2022 03:02,211,Medium,Closed
+LOG-0428,SS-03,Taman Mawar,RMU,SS-03-RMU-03,Voltage anomaly,2022-08-28 18:30,2022-08-28 22:23,58,Medium,Closed
+LOG-0175,SS-02,Sungai Kelana,Cable,SS-02-CAB-01,Cable joint failure,2022-08-24 04:09,25-Aug-2022 07:35,257,High,Closed
+LOG-0048,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-01,Cable joint failure,2022-07-15 23:37,2022-07-16 04:55,187,High,Closed
+LOG-0134,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-03,Cable fault,2022-01-03 15:23,03-Jan-2022 21:19,145,High,Closed
+LOG-0572,SS-02,Sungai Kelana,Cable,SS-02-CAB-03,Switchgear alarm,25/05/2022 03:54,25/05/2022 05:23,18,Low,Closed
+LOG-0113,SS-01,Bukit Hijau,Circuit Breaker,SS-01-CIR-02,Cable fault,2022-08-15 02:29,2022-08-15 10:48,116,High,Closed
+LOG-0228,SS-05,Jalan Seri,Switchgear,SS-05-SWI-02,Voltage anomaly,2022-08-27 20:35,2022-08-27 23:56,33,Medium,Closed
+LOG-0345,SS-05,Jalan Seri,Cable,SS-05-CAB-01,Transformer oil issue,2022-01-19 16:18,2022-01-20 07:09,40,High,Closed
+LOG-0350,SS-04,Lembah Biru,Transformer,SS-04-TRA-04,Vegetation contact,2022-06-08 06:42,2022-06-08 13:04,133,Medium,Closed
+LOG-0337,SS-05,JALAN SERI,Cable,SS-05-CAB-02,Cable joint failure,25-Mar-2022 12:11,25-Mar-2022 18:43,196,High,Closed
+LOG-0135,SS-04,Lembah Biru,Transformer,SS-04-TRA-04,Cable fault,2022-10-06 22:34,,,High,Open
+LOG-0102,SS-05,Jalan Seri,Switchgear,SS-05-SWI-01,Pole damage,2022-11-02 01:05,2022-11-02 05:37,155,Medium,Closed
+LOG-0535,SS-01,Bukit Hijau,Cable,SS-01-CAB-04,Switchgear alarm,01-Jan-2022 22:38,2022-01-02 00:15,27,Low,Closed
+LOG-0464,SS-01,Bukit Hijau,Circuit Breaker,SS-01-CIR-01,Voltage anomaly,22-Jun-2022 14:14,2022-06-22 16:05,66,Medium,Closed
+LOG-0582,SS-05,Jalan Seri,Cable,SS-05-CAB-04,Cable joint failure,04/06/2022 06:50,2022-06-04 22:10,241,High,Closed
+LOG-0226,SS-01,Bukit Hijau,Transformer,SS-01-TRA-02,Transformer oil issue,18/07/2022 23:19,2022-07-19 13:07,72,High,Closed
+LOG-0559,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-03,Vegetation contact,2022-12-08 04:37,2022-12-08 06:32,82,Medium,Closed
+LOG-0151,SS-05,SS jalan seri,RMU,SS-05-RMU-04,Transformer oil issue,2022-01-08 09:04,2022-01-08 16:23,29,High,Closed
+LOG-0588,SS-05,Jalan Seri,RMU,SS-05-RMU-04,Voltage anomaly,31/01/2022 17:28,31/01/2022 21:58,101,Medium,Closed
+LOG-0293,SS-01,Bukit Hijau,Cable,SS-01-CAB-04,Vegetation contact,2022-04-22 05:22,2022-04-22 08:33,136,Medium,Closed
+LOG-0473,SS-04,Lembah Biru,CT/VT,SS-04-CTV-04,Switchgear alarm,2022-02-09 02:43,2022-02-09 04:32,7,Low,Closed
+LOG-0382,SS-01,BUKIT HIJAU,Cable,SS-01-CAB-03,Voltage anomaly,2022-01-23 06:10,2022-01-23 08:44,66,Medium,Closed
+LOG-0022,SS-04,Lembah Biru,Transformer,SS-04-TRA-04,Pole damage,2022-08-05 05:03,2022-08-05 11:13,145,Medium,Closed
+LOG-0325,SS-01,Bukit Hijau,Circuit Breaker,SS-01-CIR-03,Vegetation contact,30-Sep-2022 13:57,30-Sep-2022 16:56,66,Medium,Closed
+LOG-0437,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-01,Cable joint failure,2022-04-11 20:21,2022-04-12 05:16,195,High,Closed
+LOG-0391,SS-02,Sungai Kelana,Transformer,SS-02-TRA-02,Cable fault,2022-09-22 00:21,2022-09-22 10:15,139,High,Closed
+LOG-0298,SS-03,Taman Mawar,RMU,SS-03-RMU-01,Cable joint failure,2022-07-21 11:42,2022-07-21 19:37,486,High,Closed
+LOG-0364,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-01,Cable fault,23/05/2022 17:08,24/05/2022 02:50,195,High,Closed
+LOG-0286,SS-01,SS bukit hijau,Transformer,SS-01-TRA-05,Cable fault,27-Sep-2022 18:09,2022-09-28 01:20,209,High,Closed
+LOG-0269,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-04,Switchgear alarm,2022-09-20 05:37,2022-09-20 06:52,52,Low,Closed
+LOG-0316,SS-03,Taman Mawar,Switchgear,SS-03-SWI-04,Transformer oil issue,2022-01-11 02:28,2022-01-11 13:43,18,High,Closed
+LOG-0164,SS-01,Bukit Hijau,Cable,SS-01-CAB-03,Pole damage,2022-01-14 19:23,15-Jan-2022 02:18,139,Medium,Closed
+LOG-0055,SS-01,Bukit Hijau,Transformer,SS-01-TRA-01,Switchgear alarm,2022-06-08 23:09,2022-06-09 00:36,14,Low,Closed
+LOG-0551,SS-01,Bukit Hijau,Transformer,SS-01-TRA-01,Cable fault,2022-05-21 00:46,2022-05-21 05:41,393,High,Closed
+LOG-0202,SS-02,Sungai Kelana,Transformer,SS-02-TRA-03,Pole damage,2022-10-30 15:42,2022-10-31 03:36,268,Medium,Closed
+LOG-0523,SS-05,Jalan Seri,RMU,SS-05-RMU-03,Voltage anomaly,2022-12-03 04:15,2022-12-03 06:34,64,Medium,Closed
+LOG-0018,SS-01,Bukit Hijau,Cable,SS-01-CAB-01,Switchgear alarm,20/06/2022 17:02,2022-06-20 21:20,39,Low,Closed
+LOG-0272,SS-03,Taman Mawar,Switchgear,SS-03-SWI-02,Pole damage,27-Oct-2022 06:23,2022-10-27 12:17,183,Medium,Closed
+LOG-0023,SS-03,SS taman mawar,Switchgear,SS-03-SWI-04,Vegetation contact,2022-10-31 03:49,2022-10-31 07:35,103,Medium,Closed
+LOG-0257,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-01,Vegetation contact,12-Feb-2022 18:57,12/02/2022 22:22,110,Medium,Closed
+LOG-0573,SS-01,Bukit Hijau,Transformer,SS-01-TRA-03,Cable joint failure,2022-06-10 22:23,2022-06-11 16:06,213,High,Closed
+LOG-0541,SS-03,Taman Mawar,Switchgear,SS-03-SWI-02,Switchgear alarm,2022-11-23 02:09,23-Nov-2022 03:13,45,Low,Closed
+LOG-0486,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-01,Pole damage,2022-02-07 23:00,08-Feb-2022 02:26,107,Medium,Closed
+LOG-0548,SS-05,Jalan Seri,RMU,SS-05-RMU-02,Cable joint failure,2022-07-13 00:50,13-Jul-2022 11:29,324,High,Closed
+LOG-0076,SS-04,SS lembah biru,Circuit Breaker,SS-04-CIR-04,Cable fault,2022-12-04 03:20,04/12/2022 08:18,192,High,Closed
+LOG-0411,SS-05,Jalan Seri,Switchgear,SS-05-SWI-01,Vegetation contact,2022-03-11 03:21,2022-03-11 07:39,208,Medium,Closed
+LOG-0311,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-01,Transformer oil issue,2022-05-30 05:00,2022-05-31 04:40,81,High,Closed
+LOG-0542,SS-01,Bukit Hijau,Cable,SS-01-CAB-02,Cable fault,2022-03-16 21:39,2022-03-17 09:13,153,High,Closed
+LOG-0166,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-03,Vegetation contact,2022-08-16 06:52,2022-08-16 12:12,64,Medium,Closed
+LOG-0566,SS-02,Sungai Kelana,Transformer,SS-02-TRA-01,Cable fault,09/07/2022 12:59,2022-07-09 16:48,90,High,Closed
+LOG-0517,SS-01,Bukit Hijau,Circuit Breaker,SS-01-CIR-02,Pole damage,14-Sep-2022 16:15,2022-09-14 23:00,152,Medium,Closed
+LOG-0014,SS-05,Jalan Seri,Switchgear,SS-05-SWI-02,Vegetation contact,2022-10-24 14:16,2022-10-24 16:34,178,Medium,Closed
+LOG-0109,SS-04,LEMBAH BIRU,CT/VT,SS-04-CTV-04,Switchgear alarm,2022-05-06 07:42,2022-05-06 09:14,24,Low,Closed
+LOG-0470,SS-03,Taman Mawar,Cable,SS-03-CAB-01,Voltage anomaly,2022-04-18 19:53,18-Apr-2022 22:20,41,Medium,Closed
+LOG-0081,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-01,Cable fault,2022-01-16 18:52,2022-01-17 08:06,278,High,Closed
+LOG-0322,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-03,Vegetation contact,15/12/2022 17:32,2022-12-15 21:20,121,Medium,Closed
+LOG-0258,SS-03,Taman Mawar,Cable,SS-03-CAB-03,Voltage anomaly,2022-11-21 14:32,2022-11-21 17:34,33,Medium,Closed
+LOG-0540,SS-02,Sungai Kelana,Cable,SS-02-CAB-04,Pole damage,2022-08-28 11:09,2022-08-28 18:30,109,Medium,Closed
+LOG-0403,SS-02,Sungai Kelana,Cable,SS-02-CAB-03,Switchgear alarm,24-Feb-2022 07:12,2022-02-24 09:13,60,Low,Closed
+LOG-0343,SS-01,Bukit Hijau,Circuit Breaker,SS-01-CIR-02,Pole damage,03/06/2022 09:32,03-Jun-2022 18:20,106,Medium,Closed
+LOG-0200,SS-01,Bukit Hijau,Transformer,SS-01-TRA-05,Switchgear alarm,2022-11-29 03:41,2022-11-29 05:26,32,Low,Closed
+LOG-0362,SS-01,BUKIT HIJAU,Cable,SS-01-CAB-05,Switchgear alarm,2022-06-13 08:39,2022-06-13 10:39,47,Low,Closed
+LOG-0028,SS-04,LEMBAH BIRU,Transformer,SS-04-TRA-04,Switchgear alarm,05-Oct-2022 05:03,2022-10-05 06:42,36,Low,Closed
+LOG-0254,SS-01,Bukit Hijau,Transformer,SS-01-TRA-02,Voltage anomaly,2022-10-30 19:26,,,Medium,Open
+LOG-0386,SS-01,Bukit Hijau,Cable,SS-01-CAB-04,Vegetation contact,2022-04-25 13:45,2022-04-25 15:45,119,Medium,Closed
+LOG-0016,SS-01,Bukit Hijau,Transformer,SS-01-TRA-03,Voltage anomaly,2022-09-27 01:30,2022-09-27 04:05,35,Medium,Closed
+LOG-0317,SS-01,Bukit Hijau,Transformer,SS-01-TRA-05,Transformer oil issue,2022-06-03 22:01,04-Jun-2022 07:24,63,High,Closed
+LOG-0287,SS-01,BUKIT HIJAU,Transformer,SS-01-TRA-05,Cable fault,2022-03-15 02:05,2022-03-15 12:02,193,High,Closed
+LOG-0326,SS-01,Bukit Hijau,Transformer,SS-01-TRA-02,Pole damage,13/11/2022 07:41,13-Nov-2022 15:09,232,Medium,Closed
+LOG-0144,SS-03,Taman Mawar,RMU,SS-03-RMU-03,Voltage anomaly,2022-08-29 00:11,2022-08-29 02:52,57,Medium,Closed
+LOG-0476,SS-05,Jalan Seri,RMU,SS-05-RMU-02,Pole damage,2022-10-27 17:57,2022-10-27 23:03,54,Medium,Closed
+LOG-0452,SS-02,Sungai Kelana,Cable,SS-02-CAB-04,Voltage anomaly,2022-03-16 13:04,2022-03-16 15:46,89,Medium,Closed
+LOG-0177,SS-01,Bukit Hijau,Circuit Breaker,SS-01-CIR-01,Cable joint failure,2022-07-30 10:04,2022-07-31 04:19,142,High,Closed
+LOG-0271,SS-05,Jalan Seri,Switchgear,SS-05-SWI-01,Switchgear alarm,2022-01-15 03:41,2022-01-15 06:52,16,Low,Closed
+LOG-0074,SS-03,Taman Mawar,Cable,SS-03-CAB-03,Transformer oil issue,2022-03-08 06:29,2022-03-08 14:41,101,High,Closed
+LOG-0159,SS-04,Lembah Biru,CT/VT,SS-04-CTV-05,Vegetation contact,2022-03-05 08:53,2022-03-05 12:34,146,Medium,Closed
+LOG-0027,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-04,Voltage anomaly,2022-11-02 14:33,02-Nov-2022 19:49,52,Medium,Closed
+LOG-0003,SS-04,Lembah Biru,CT/VT,SS-04-CTV-01,Pole damage,2022-02-03 06:42,2022-02-03 10:56,78,Medium,Closed
+LOG-0207,SS-01,Bukit Hijau,Transformer,SS-01-TRA-03,Cable fault,2022-11-18 14:10,19/11/2022 00:55,99,High,Closed
+LOG-0392,SS-05,Jalan Seri,RMU,SS-05-RMU-01,Vegetation contact,2022-11-16 09:00,16-Nov-2022 10:58,86,Medium,Closed
+LOG-0296,SS-04,Lembah Biru,CT/VT,SS-04-CTV-03,Pole damage,13-Sep-2022 21:15,14/09/2022 02:38,77,Medium,Closed
+LOG-0125,SS-03,Taman Mawar,Switchgear,SS-03-SWI-05,Cable fault,2022-05-27 19:00,2022-05-28 05:12,66,High,Closed
+LOG-0103,SS-01,Bukit Hijau,Transformer,SS-01-TRA-03,Pole damage,2022-04-30 06:06,30-Apr-2022 12:09,192,Medium,Closed
+LOG-0193,SS-01,Bukit Hijau,Transformer,SS-01-TRA-03,Cable joint failure,27-Mar-2022 20:38,28/03/2022 02:22,546,High,Closed
+LOG-0031,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-02,Vegetation contact,2022-05-19 14:23,2022-05-19 17:18,71,Medium,Closed
+LOG-0521,SS-05,Jalan Seri,RMU,SS-05-RMU-04,Cable fault,2022-09-17 14:52,17-Sep-2022 22:11,293,High,Closed
+LOG-0050,SS-01,Bukit Hijau,Transformer,SS-01-TRA-01,Switchgear alarm,2022-07-09 08:40,2022-07-09 11:04,27,Low,Closed
+LOG-0377,SS-01,Bukit Hijau,Cable,SS-01-CAB-05,Cable joint failure,2022-07-07 23:31,2022-07-08 05:13,170,High,Closed
+LOG-0278,SS-04,Lembah Biru,CT/VT,SS-04-CTV-03,Switchgear alarm,25-Jun-2022 21:41,2022-06-26 02:01,19,Low,Closed
+LOG-0510,SS-04,Lembah Biru,Transformer,SS-04-TRA-03,Switchgear alarm,2022-11-02 09:07,02-Nov-2022 11:48,26,Low,Closed
+LOG-0021,SS-05,Jalan Seri,Cable,SS-05-CAB-04,Switchgear alarm,2022-12-17 23:07,2022-12-18 00:09,21,Low,Closed
+LOG-0448,SS-01,SS bukit hijau,Cable,SS-01-CAB-02,Switchgear alarm,2022-11-26 14:56,26-Nov-2022 17:04,28,Low,Closed
+LOG-0355,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-04,Transformer oil issue,2022-01-10 18:49,2022-01-11 08:01,70,High,Closed
+LOG-0087,SS-05,Jalan Seri,Switchgear,SS-05-SWI-01,Cable fault,12-Aug-2022 19:42,2022-08-12 23:07,83,High,Closed
+LOG-0069,SS-05,Jalan Seri,Switchgear,SS-05-SWI-03,Pole damage,2022-10-02 02:53,02/10/2022 07:06,234,Medium,Closed
+LOG-0118,SS-03,Taman Mawar,Cable,SS-03-CAB-02,Cable fault,28-Mar-2022 21:38,2022-03-29 06:56,340,High,Closed
+LOG-0358,SS-03,Taman Mawar,RMU,SS-03-RMU-02,Cable fault,2022-10-24 10:55,24/10/2022 15:51,56,High,Closed
+LOG-0292,SS-03,TAMAN MAWAR,Cable,SS-03-CAB-03,Pole damage,05-Apr-2022 09:35,,,Medium,Open
+LOG-0043,SS-04,LEMBAH BIRU,CT/VT,SS-04-CTV-05,Cable fault,02/10/2022 21:29,03-Oct-2022 05:58,341,High,Closed
+LOG-0335,SS-05,Jalan Seri,Switchgear,SS-05-SWI-01,Transformer oil issue,2022-08-07 10:31,2022-08-08 01:25,77,High,Closed
+LOG-0584,SS-03,Taman Mawar,Cable,SS-03-CAB-01,Cable joint failure,2022-09-18 08:51,2022-09-19 02:22,309,High,Closed
+LOG-0497,SS-01,Bukit Hijau,Cable,SS-01-CAB-04,Vegetation contact,2022-07-02 20:05,2022-07-02 22:16,130,Medium,Closed
+LOG-0096,SS-01,BUKIT HIJAU,Circuit Breaker,SS-01-CIR-01,Cable fault,13-Aug-2022 13:49,2022-08-13 22:50,125,High,Closed
+LOG-0515,SS-03,Taman Mawar,Cable,SS-03-CAB-01,Cable fault,01/10/2022 21:35,2022-10-02 04:37,300,High,Closed
+LOG-0213,SS-04,Lembah Biru,CT/VT,SS-04-CTV-01,Cable fault,2022-07-05 00:26,2022-07-05 08:46,300,High,Closed
+LOG-0329,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-04,Vegetation contact,2022-08-29 12:50,2022-08-29 15:43,137,Medium,Closed
+LOG-0320,SS-04,Lembah Biru,CT/VT,SS-04-CTV-04,Switchgear alarm,2022-01-08 22:37,09-Jan-2022 01:37,30,Low,Closed
+LOG-0180,SS-05,Jalan Seri,RMU,SS-05-RMU-04,Cable fault,30-Dec-2022 09:01,2022-12-30 14:57,110,High,Closed
+LOG-0375,SS-05,Jalan Seri,RMU,SS-05-RMU-03,Cable joint failure,2022-05-02 04:37,02/05/2022 13:41,337,High,Closed
+LOG-0500,SS-01,Bukit Hijau,Cable,SS-01-CAB-02,Vegetation contact,02/04/2022 18:55,2022-04-02 22:12,193,Medium,Closed
+LOG-0299,SS-01,SS bukit hijau,Cable,SS-01-CAB-03,Voltage anomaly,2022-12-08 13:21,2022-12-08 16:05,43,Medium,Closed
+LOG-0281,SS-04,Lembah Biru,CT/VT,SS-04-CTV-02,Switchgear alarm,2022-05-07 12:27,2022-05-07 15:14,18,Low,Closed
+LOG-0484,SS-05,Jalan Seri,Switchgear,SS-05-SWI-02,Voltage anomaly,2022-11-05 21:09,06/11/2022 01:49,40,Medium,Closed
+LOG-0450,SS-01,Bukit Hijau,Circuit Breaker,SS-01-CIR-01,Transformer oil issue,02/12/2022 15:09,2022-12-03 13:41,57,High,Closed
+LOG-0578,SS-02,Sungai Kelana,Transformer,SS-02-TRA-03,Cable fault,2022-09-20 22:52,2022-09-21 06:05,216,High,Closed
+LOG-0482,SS-03,Taman Mawar,Switchgear,SS-03-SWI-05,Cable fault,2022-09-05 04:11,2022-09-05 15:47,231,High,Closed
+LOG-0215,SS-01,Bukit Hijau,Circuit Breaker,SS-01-CIR-02,Transformer oil issue,2022-07-31 12:17,01-Aug-2022 15:05,58,High,Closed
+LOG-0071,SS-01,Bukit Hijau,Transformer,SS-01-TRA-02,Cable fault,2022-05-25 19:45,26-May-2022 05:40,167,High,Closed
+LOG-0477,SS-04,Lembah Biru,CT/VT,SS-04-CTV-03,Voltage anomaly,10-Nov-2022 09:05,2022-11-10 10:40,54,Medium,Closed
+LOG-0058,SS-05,Jalan Seri,RMU,SS-05-RMU-01,Switchgear alarm,11/04/2022 09:46,2022-04-11 11:41,67,Low,Closed
+LOG-0388,SS-04,SS lembah biru,Circuit Breaker,SS-04-CIR-05,Vegetation contact,2022-08-18 09:06,18/08/2022 12:03,113,Medium,Closed
+LOG-0149,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-01,Cable fault,23-May-2022 18:48,2022-05-24 00:48,115,High,Closed
+LOG-0457,SS-03,Taman Mawar,Switchgear,SS-03-SWI-04,Vegetation contact,2022-03-26 03:29,26-Mar-2022 18:25,107,Medium,Closed
+LOG-0396,SS-01,Bukit Hijau,Transformer,SS-01-TRA-01,Switchgear alarm,2022-08-14 19:22,2022-08-14 20:50,20,Low,Closed
+LOG-0568,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-03,Voltage anomaly,2022-03-18 23:04,2022-03-19 02:21,31,Medium,Closed
+LOG-0165,SS-03,Taman Mawar,Switchgear,SS-03-SWI-02,Pole damage,15/12/2022 22:25,16-Dec-2022 06:12,383,Medium,Closed
+LOG-0190,SS-01,Bukit Hijau,Cable,SS-01-CAB-02,Vegetation contact,2022-07-19 08:00,2022-07-19 09:58,133,Medium,Closed
+LOG-0070,SS-04,Lembah Biru,Transformer,SS-04-TRA-03,Voltage anomaly,2022-07-21 20:29,22/07/2022 00:02,75,Medium,Closed
+LOG-0073,SS-05,Jalan Seri,Cable,SS-05-CAB-01,Cable fault,18/11/2022 09:27,2022-11-18 18:14,484,High,Closed
+LOG-0066,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-03,Voltage anomaly,15/10/2022 15:16,2022-10-15 17:41,75,Medium,Closed
+LOG-0423,SS-01,Bukit Hijau,Transformer,SS-01-TRA-03,Switchgear alarm,2022-05-09 21:15,,,Low,Open
+LOG-0527,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-01,Voltage anomaly,2022-07-11 23:09,2022-07-12 03:23,26,Medium,Closed
+LOG-0112,SS-05,SS jalan seri,RMU,SS-05-RMU-05,Cable fault,2022-10-07 07:22,07/10/2022 13:18,88,High,Closed
+LOG-0274,SS-01,Bukit Hijau,Transformer,SS-01-TRA-05,Cable fault,2022-04-24 05:57,2022-04-24 09:16,96,High,Closed
+LOG-0168,SS-01,BUKIT HIJAU,Transformer,SS-01-TRA-04,Voltage anomaly,17-Apr-2022 05:55,2022-04-17 07:48,43,Medium,Closed
+LOG-0116,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-01,Cable joint failure,2022-06-12 22:23,2022-06-13 07:39,311,High,Closed
+LOG-0456,SS-03,Taman Mawar,Cable,SS-03-CAB-02,Pole damage,2022-11-23 04:55,23/11/2022 11:57,211,Medium,Closed
+LOG-0206,SS-02,Sungai Kelana,Transformer,SS-02-TRA-02,Vegetation contact,19/01/2022 11:21,2022-01-19 15:47,53,Medium,Closed
+LOG-0150,SS-04,Lembah Biru,Transformer,SS-04-TRA-02,Voltage anomaly,2022-05-09 12:08,09/05/2022 14:29,30,Medium,Closed
+LOG-0277,SS-02,Sungai Kelana,Transformer,SS-02-TRA-02,Voltage anomaly,25/10/2022 12:23,2022-10-25 15:06,129,Medium,Closed
+LOG-0600,SS-02,Sungai Kelana,Cable,SS-02-CAB-03,Cable fault,2022-12-11 21:54,2022-12-12 09:47,206,High,Closed
+LOG-0304,SS-01,Bukit Hijau,Transformer,SS-01-TRA-04,Voltage anomaly,30/05/2022 11:26,30-May-2022 12:59,31,Medium,Closed
+LOG-0075,SS-04,Lembah Biru,Transformer,SS-04-TRA-03,Voltage anomaly,25/04/2022 10:24,25/04/2022 15:03,28,Medium,Closed
+LOG-0546,SS-03,SS taman mawar,Cable,SS-03-CAB-01,Voltage anomaly,2022-12-09 21:09,2022-12-10 01:12,78,Medium,Closed
+LOG-0123,SS-02,Sungai Kelana,Cable,SS-02-CAB-02,Cable fault,2022-10-23 05:19,23/10/2022 12:55,131,High,Closed
+LOG-0323,SS-02,SS sungai kelana,Switchgear,SS-02-SWI-03,Cable joint failure,2022-01-21 22:52,22-Jan-2022 08:27,320,High,Closed
+LOG-0004,SS-01,Bukit Hijau,Circuit Breaker,SS-01-CIR-01,Cable fault,2022-01-08 19:19,,,High,Open
+LOG-0157,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-03,Cable fault,2022-11-01 19:13,2022-11-01 23:08,184,High,Closed
+LOG-0236,SS-05,Jalan Seri,RMU,SS-05-RMU-01,Transformer oil issue,2022-01-13 02:53,2022-01-13 10:27,64,High,Closed
+LOG-0305,SS-01,Bukit Hijau,Cable,SS-01-CAB-01,Cable joint failure,05-Sep-2022 15:17,05-Sep-2022 19:56,356,High,Closed
+LOG-0399,SS-02,Sungai Kelana,Cable,SS-02-CAB-03,Vegetation contact,2022-03-01 13:02,01/03/2022 17:12,111,Medium,Closed
+LOG-0259,SS-04,Lembah Biru,CT/VT,SS-04-CTV-03,Transformer oil issue,27/01/2022 05:37,2022-01-27 19:02,59,High,Closed
+LOG-0104,SS-03,Taman Mawar,Cable,SS-03-CAB-01,Cable fault,2022-01-02 19:24,03-Jan-2022 16:29,99,High,Closed
+LOG-0513,SS-01,SS bukit hijau,Cable,SS-01-CAB-03,Switchgear alarm,2022-10-08 13:54,2022-10-08 16:25,51,Low,Closed
+LOG-0596,SS-04,Lembah Biru,Transformer,SS-04-TRA-03,Voltage anomaly,2022-05-26 10:10,2022-05-26 13:10,92,Medium,Closed
+LOG-0442,SS-05,Jalan Seri,Switchgear,SS-05-SWI-01,Cable fault,23-Jul-2022 13:04,2022-07-23 20:55,423,High,Closed
+LOG-0156,SS-05,JALAN SERI,RMU,SS-05-RMU-01,Switchgear alarm,2022-12-17 23:42,18/12/2022 01:59,34,Low,Closed
+LOG-0114,SS-03,Taman Mawar,Switchgear,SS-03-SWI-04,Cable joint failure,2022-03-07 20:12,2022-03-08 04:31,173,High,Closed
+LOG-0090,SS-03,SS taman mawar,Switchgear,SS-03-SWI-01,Cable fault,2022-03-17 22:23,18/03/2022 11:27,132,High,Closed
+LOG-0526,SS-04,Lembah Biru,CT/VT,SS-04-CTV-03,Switchgear alarm,2022-05-16 10:40,16-May-2022 12:36,64,Low,Closed
+LOG-0327,SS-03,Taman Mawar,RMU,SS-03-RMU-02,Vegetation contact,2022-06-11 16:23,2022-06-11 19:13,166,Medium,Closed
+LOG-0083,SS-05,SS jalan seri,Cable,SS-05-CAB-01,Voltage anomaly,2022-08-19 19:47,2022-08-19 21:18,31,Medium,Closed
+LOG-0581,SS-05,Jalan Seri,Cable,SS-05-CAB-04,Cable joint failure,10/06/2022 15:44,2022-06-10 20:47,158,High,Closed
+LOG-0340,SS-01,Bukit Hijau,Transformer,SS-01-TRA-01,Switchgear alarm,2022-12-03 19:02,2022-12-03 22:06,55,Low,Closed
+LOG-0472,SS-05,Jalan Seri,Cable,SS-05-CAB-01,Switchgear alarm,15/02/2022 04:20,2022-02-15 06:54,66,Low,Closed
+LOG-0089,SS-01,Bukit Hijau,Cable,SS-01-CAB-04,Cable fault,2022-06-28 02:42,28/06/2022 09:43,128,High,Closed
+LOG-0057,SS-01,Bukit Hijau,Circuit Breaker,SS-01-CIR-01,Vegetation contact,2022-08-17 20:37,2022-08-18 00:14,117,Medium,Closed
+LOG-0495,SS-05,Jalan Seri,Switchgear,SS-05-SWI-02,Transformer oil issue,2022-06-06 10:20,,,High,Open
+LOG-0124,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-03,Voltage anomaly,2022-09-29 22:41,2022-09-30 02:23,59,Medium,Closed
+LOG-0267,SS-02,Sungai Kelana,Cable,SS-02-CAB-01,Switchgear alarm,2022-02-11 00:18,2022-02-11 03:27,26,Low,Closed
+LOG-0225,SS-01,Bukit Hijau,Cable,SS-01-CAB-04,Voltage anomaly,2022-10-19 16:29,19-Oct-2022 20:09,25,Medium,Closed
+LOG-0430,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-03,Switchgear alarm,24-Nov-2022 06:56,2022-11-24 08:03,29,Low,Closed
+LOG-0451,SS-05,Jalan Seri,RMU,SS-05-RMU-05,Switchgear alarm,31-Dec-2022 06:41,2022-12-31 08:13,34,Low,Closed
+LOG-0339,SS-02,Sungai Kelana,Cable,SS-02-CAB-04,Voltage anomaly,2022-06-20 03:42,20/06/2022 07:11,64,Medium,Closed
+LOG-0488,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-05,Cable fault,2022-04-08 03:36,2022-04-08 12:04,374,High,Closed
+LOG-0291,SS-01,Bukit Hijau,Transformer,SS-01-TRA-04,Switchgear alarm,2022-11-30 09:34,2022-11-30 11:57,35,Low,Closed
+LOG-0516,SS-04,SS lembah biru,Transformer,SS-04-TRA-04,Cable fault,2022-04-25 08:29,25/04/2022 17:23,106,High,Closed
+LOG-0425,SS-03,Taman Mawar,Switchgear,SS-03-SWI-01,Transformer oil issue,2022-12-16 14:57,2022-12-16 21:07,36,High,Closed
+LOG-0037,SS-04,Lembah Biru,Transformer,SS-04-TRA-01,Switchgear alarm,2022-11-15 06:16,2022-11-15 07:42,59,Low,Closed
+LOG-0307,SS-01,BUKIT HIJAU,Transformer,SS-01-TRA-05,Voltage anomaly,2022-08-12 17:11,2022-08-12 20:50,43,Medium,Closed
+LOG-0591,SS-01,Bukit Hijau,Transformer,SS-01-TRA-05,Vegetation contact,22-Mar-2022 16:46,2022-03-22 20:36,170,Medium,Closed
+LOG-0039,SS-01,Bukit Hijau,Transformer,SS-01-TRA-02,Switchgear alarm,2022-06-18 22:49,2022-06-19 00:20,46,Low,Closed
+LOG-0106,SS-01,BUKIT HIJAU,Transformer,SS-01-TRA-04,Pole damage,2022-04-15 01:57,2022-04-15 13:13,148,Medium,Closed
+LOG-0146,SS-03,Taman Mawar,Cable,SS-03-CAB-03,Voltage anomaly,2022-06-04 07:45,04-Jun-2022 20:15,20,Medium,Closed
+LOG-0052,SS-04,Lembah Biru,CT/VT,SS-04-CTV-03,Cable fault,2022-01-01 20:53,,,High,Open
+LOG-0474,SS-03,TAMAN MAWAR,Switchgear,SS-03-SWI-05,Transformer oil issue,2022-01-16 15:05,17/01/2022 09:08,76,High,Closed
+LOG-0061,SS-04,Lembah Biru,CT/VT,SS-04-CTV-01,Vegetation contact,2022-12-06 22:53,07/12/2022 04:08,48,Medium,Closed
+LOG-0263,SS-05,Jalan Seri,RMU,SS-05-RMU-05,Vegetation contact,2022-04-01 21:44,,,Medium,Open
+LOG-0009,SS-03,Taman Mawar,Switchgear,SS-03-SWI-04,Voltage anomaly,2022-04-10 23:00,2022-04-11 01:31,28,Medium,Closed
+LOG-0463,SS-01,BUKIT HIJAU,Circuit Breaker,SS-01-CIR-01,Pole damage,2022-05-08 01:16,2022-05-08 14:11,70,Medium,Closed
+LOG-0126,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-01,Cable fault,13-Jun-2022 01:54,2022-06-13 11:14,167,High,Closed
+LOG-0036,SS-03,Taman Mawar,Switchgear,SS-03-SWI-03,Cable fault,2022-11-21 15:13,2022-11-21 23:23,108,High,Closed
+LOG-0354,SS-04,Lembah Biru,CT/VT,SS-04-CTV-01,Cable fault,2022-02-08 15:24,2022-02-09 00:03,308,High,Closed
+LOG-0539,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-03,Transformer oil issue,2022-05-01 14:15,2022-05-02 01:35,47,High,Closed
+LOG-0537,SS-02,Sungai Kelana,Transformer,SS-02-TRA-01,Pole damage,2022-09-22 13:12,2022-09-22 16:26,125,Medium,Closed
+LOG-0414,SS-05,JALAN SERI,Switchgear,SS-05-SWI-02,Pole damage,2022-08-11 14:23,2022-08-11 21:11,149,Medium,Closed
+LOG-0099,SS-01,BUKIT HIJAU,Transformer,SS-01-TRA-05,Cable fault,2022-10-07 22:08,2022-10-08 10:21,86,High,Closed
+LOG-0485,SS-02,Sungai Kelana,Transformer,SS-02-TRA-03,Voltage anomaly,09/04/2022 08:25,2022-04-09 11:03,63,Medium,Closed
+LOG-0095,SS-03,Taman Mawar,RMU,SS-03-RMU-01,Pole damage,2022-06-21 08:53,21-Jun-2022 11:56,89,Medium,Closed
+LOG-0511,SS-01,Bukit Hijau,Circuit Breaker,SS-01-CIR-01,Transformer oil issue,08-Jun-2022 16:31,09/06/2022 13:31,61,High,Closed
+LOG-0592,SS-05,JALAN SERI,Cable,SS-05-CAB-03,Cable fault,07-Jan-2022 09:29,07/01/2022 14:59,168,High,Closed
+LOG-0381,SS-01,Bukit Hijau,Cable,SS-01-CAB-05,Voltage anomaly,2022-10-16 12:53,2022-10-16 16:15,49,Medium,Closed
+LOG-0480,SS-01,Bukit Hijau,Transformer,SS-01-TRA-02,Cable fault,16/11/2022 20:42,2022-11-17 06:48,127,High,Closed
+LOG-0242,SS-01,Bukit Hijau,Cable,SS-01-CAB-05,Transformer oil issue,19/03/2022 21:31,2022-03-20 06:37,78,High,Closed
+LOG-0303,SS-04,Lembah Biru,CT/VT,SS-04-CTV-04,Pole damage,2022-05-04 04:50,2022-05-04 09:40,206,Medium,Closed
+LOG-0333,SS-01,SS bukit hijau,Circuit Breaker,SS-01-CIR-01,Switchgear alarm,2022-02-01 22:07,02/02/2022 00:25,21,Low,Closed
+LOG-0214,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-03,Voltage anomaly,2022-07-12 04:03,12-Jul-2022 05:33,45,Medium,Closed
+LOG-0319,SS-03,Taman Mawar,Cable,SS-03-CAB-03,Transformer oil issue,2022-12-23 16:25,2022-12-24 10:24,93,High,Closed
+LOG-0276,SS-03,Taman Mawar,Cable,SS-03-CAB-01,Cable fault,25/01/2022 05:10,2022-01-25 11:07,180,High,Closed
+LOG-0597,SS-04,Lembah Biru,Transformer,SS-04-TRA-03,Transformer oil issue,06/06/2022 21:23,2022-06-07 08:40,101,High,Closed
+LOG-0198,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-03,Voltage anomaly,25/09/2022 07:36,2022-09-25 11:47,50,Medium,Closed
+LOG-0517,SS-01,Bukit Hijau,Circuit Breaker,SS-01-CIR-02,Pole damage,14-Sep-2022 16:15,2022-09-14 23:00,152,Medium,Closed
+LOG-0383,SS-01,Bukit Hijau,Cable,SS-01-CAB-04,Cable fault,21/05/2022 08:09,2022-05-21 17:12,83,High,Closed
+LOG-0318,SS-05,Jalan Seri,RMU,SS-05-RMU-04,Cable joint failure,20/11/2022 23:16,2022-11-21 09:17,394,High,Closed
+LOG-0498,SS-04,Lembah Biru,CT/VT,SS-04-CTV-03,Switchgear alarm,17/07/2022 02:37,2022-07-17 05:44,31,Low,Closed
+LOG-0443,SS-03,TAMAN MAWAR,RMU,SS-03-RMU-02,Cable fault,2022-02-08 21:32,2022-02-09 12:44,83,High,Closed
+LOG-0415,SS-02,Sungai Kelana,Transformer,SS-02-TRA-02,Voltage anomaly,2022-01-27 10:42,2022-01-27 12:20,15,Medium,Closed
+LOG-0288,SS-05,SS jalan seri,Switchgear,SS-05-SWI-02,Cable fault,2022-03-25 04:01,2022-03-25 09:36,179,High,Closed
+LOG-0086,SS-01,Bukit Hijau,Circuit Breaker,SS-01-CIR-01,Cable fault,2022-09-20 12:31,20-Sep-2022 22:13,185,High,Closed
+LOG-0479,SS-04,SS lembah biru,Transformer,SS-04-TRA-04,Switchgear alarm,29-May-2022 19:54,2022-05-29 22:08,48,Low,Closed
+LOG-0191,SS-04,Lembah Biru,CT/VT,SS-04-CTV-01,Transformer oil issue,2022-01-13 08:37,13/01/2022 17:58,92,High,Closed
+LOG-0079,SS-03,Taman Mawar,Switchgear,SS-03-SWI-04,Vegetation contact,08/02/2022 21:49,2022-02-09 02:58,80,Medium,Closed
+LOG-0598,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-02,Switchgear alarm,2022-03-24 04:22,2022-03-24 06:32,71,Low,Closed
+LOG-0251,SS-04,Lembah Biru,Transformer,SS-04-TRA-01,Cable fault,2022-02-17 11:45,2022-02-17 18:47,110,High,Closed
+LOG-0590,SS-05,Jalan Seri,Cable,SS-05-CAB-02,Pole damage,2022-06-11 11:32,11/06/2022 18:51,253,Medium,Closed
+LOG-0282,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-02,Cable fault,28/01/2022 09:34,,,High,Open
+LOG-0261,SS-03,Taman Mawar,Switchgear,SS-03-SWI-04,Cable joint failure,2022-01-11 02:12,2022-01-11 10:32,225,High,Closed
+LOG-0529,SS-01,Bukit Hijau,Cable,SS-01-CAB-05,Switchgear alarm,2022-06-24 09:33,2022-06-24 11:29,56,Low,Closed
+LOG-0506,SS-05,Jalan Seri,RMU,SS-05-RMU-03,Cable joint failure,2022-10-26 10:38,26-Oct-2022 21:00,250,High,Closed
+LOG-0256,SS-04,SS lembah biru,Transformer,SS-04-TRA-03,Voltage anomaly,2022-08-26 11:00,2022-08-26 13:43,41,Medium,Closed
+LOG-0032,SS-04,Lembah Biru,Transformer,SS-04-TRA-04,Cable fault,21-Feb-2022 17:49,,,High,Open
+LOG-0262,SS-04,Lembah Biru,CT/VT,SS-04-CTV-04,Voltage anomaly,2022-01-16 22:42,17/01/2022 00:59,42,Medium,Closed
+LOG-0503,SS-01,Bukit Hijau,Cable,SS-01-CAB-02,Cable fault,2022-01-24 20:31,25-Jan-2022 01:58,71,High,Closed
+LOG-0209,SS-03,Taman Mawar,RMU,SS-03-RMU-02,Switchgear alarm,05/03/2022 02:22,2022-03-05 04:00,53,Low,Closed
+LOG-0006,SS-05,Jalan Seri,Cable,SS-05-CAB-04,Transformer oil issue,2022-08-31 04:36,,,High,Open
+LOG-0446,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-02,Pole damage,17-Nov-2022 22:17,2022-11-18 05:03,232,Medium,Closed
+LOG-0369,SS-05,SS jalan seri,RMU,SS-05-RMU-02,Transformer oil issue,2022-03-29 23:54,30/03/2022 20:52,53,High,Closed
+LOG-0366,SS-05,Jalan Seri,Switchgear,SS-05-SWI-02,Vegetation contact,2022-03-31 16:31,2022-03-31 23:00,123,Medium,Closed
+LOG-0496,SS-05,Jalan Seri,Cable,SS-05-CAB-01,Cable joint failure,2022-03-23 23:29,2022-03-24 05:46,562,High,Closed
+LOG-0558,SS-04,LEMBAH BIRU,CT/VT,SS-04-CTV-02,Cable joint failure,2022-05-17 03:12,17/05/2022 12:03,77,High,Closed
+LOG-0017,SS-01,Bukit Hijau,Circuit Breaker,SS-01-CIR-01,Cable joint failure,14-Apr-2022 20:06,2022-04-15 10:27,255,High,Closed
+LOG-0365,SS-05,Jalan Seri,RMU,SS-05-RMU-04,Switchgear alarm,2022-06-06 11:01,,,Low,Open
+LOG-0001,SS-01,Bukit Hijau,Transformer,SS-01-TRA-03,Pole damage,2022-11-15 04:27,15-Nov-2022 12:02,125,Medium,Closed
+LOG-0084,SS-05,JALAN SERI,Switchgear,SS-05-SWI-03,Switchgear alarm,09-Dec-2022 20:23,2022-12-09 22:52,30,Low,Closed
+LOG-0436,SS-05,Jalan Seri,Cable,SS-05-CAB-04,Cable joint failure,2022-10-29 06:47,29-Oct-2022 13:27,415,High,Closed
+LOG-0347,SS-02,Sungai Kelana,Transformer,SS-02-TRA-02,Switchgear alarm,2022-07-21 08:19,2022-07-21 10:13,59,Low,Closed
+LOG-0211,SS-03,TAMAN MAWAR,Switchgear,SS-03-SWI-05,Cable joint failure,2022-04-25 11:37,2022-04-26 00:13,239,High,Closed
+LOG-0390,SS-02,Sungai Kelana,Transformer,SS-02-TRA-01,Pole damage,2022-07-24 06:00,2022-07-24 10:07,47,Medium,Closed
+LOG-0449,SS-02,Sungai Kelana,Transformer,SS-02-TRA-02,Vegetation contact,13-Mar-2022 20:19,2022-03-14 01:50,79,Medium,Closed
+LOG-0093,SS-05,JALAN SERI,Cable,SS-05-CAB-02,Cable joint failure,2022-12-14 23:01,2022-12-15 08:56,203,High,Closed
+LOG-0171,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-03,Switchgear alarm,2022-02-07 16:24,07/02/2022 17:31,20,Low,Closed
+LOG-0508,SS-04,Lembah Biru,CT/VT,SS-04-CTV-04,Cable fault,2022-07-02 02:26,02-Jul-2022 07:54,146,High,Closed
+LOG-0424,SS-04,Lembah Biru,CT/VT,SS-04-CTV-02,Cable fault,22/05/2022 09:06,,,High,Open
+LOG-0431,SS-01,Bukit Hijau,Circuit Breaker,SS-01-CIR-02,Switchgear alarm,19-Sep-2022 20:27,2022-09-19 22:11,42,Low,Closed
+LOG-0131,SS-02,SS sungai kelana,Transformer,SS-02-TRA-01,Vegetation contact,2022-01-03 07:51,03-Jan-2022 12:40,61,Medium,Closed
+LOG-0342,SS-05,Jalan Seri,RMU,SS-05-RMU-03,Cable joint failure,2022-07-27 01:02,2022-07-27 14:27,142,High,Closed
+LOG-0341,SS-02,Sungai Kelana,Cable,SS-02-CAB-04,Switchgear alarm,2022-12-18 09:22,18-Dec-2022 10:48,89,Low,Closed
+LOG-0360,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-02,Vegetation contact,20/05/2022 12:34,2022-05-20 14:56,64,Medium,Closed
+LOG-0030,SS-01,Bukit Hijau,Circuit Breaker,SS-01-CIR-02,Cable fault,2022-09-05 17:30,06/09/2022 01:59,246,High,Closed
+LOG-0230,SS-01,Bukit Hijau,Transformer,SS-01-TRA-02,Cable joint failure,2022-04-10 09:43,2022-04-11 02:45,261,High,Closed
+LOG-0100,SS-03,TAMAN MAWAR,Switchgear,SS-03-SWI-01,Transformer oil issue,08/02/2022 22:15,,,High,Open
+LOG-0554,SS-01,Bukit Hijau,Circuit Breaker,SS-01-CIR-03,Cable joint failure,2022-03-16 03:45,16-Mar-2022 13:15,202,High,Closed
+LOG-0394,SS-05,Jalan Seri,Switchgear,SS-05-SWI-03,Cable fault,22-May-2022 19:22,23/05/2022 09:17,225,High,Closed
+LOG-0562,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-02,Cable fault,2022-09-27 06:02,2022-09-27 14:20,292,High,Closed
+LOG-0503,SS-01,Bukit Hijau,Cable,SS-01-CAB-02,Cable fault,2022-01-24 20:31,25-Jan-2022 01:58,71,High,Closed
+LOG-0143,SS-03,Taman Mawar,Cable,SS-03-CAB-03,Cable fault,2022-12-10 09:37,10-Dec-2022 18:34,158,High,Closed
+LOG-0404,SS-02,Sungai Kelana,Transformer,SS-02-TRA-02,Vegetation contact,2022-03-09 07:12,2022-03-09 11:41,170,Medium,Closed
+LOG-0313,SS-04,Lembah Biru,CT/VT,SS-04-CTV-04,Pole damage,2022-05-04 06:01,2022-05-04 12:18,140,Medium,Closed
+LOG-0196,SS-03,SS taman mawar,RMU,SS-03-RMU-03,Cable fault,2022-08-30 18:30,2022-08-31 01:11,70,High,Closed
+LOG-0469,SS-03,Taman Mawar,Cable,SS-03-CAB-01,Pole damage,07-May-2022 15:20,2022-05-07 18:54,47,Medium,Closed
+LOG-0560,SS-02,Sungai Kelana,Cable,SS-02-CAB-03,Voltage anomaly,2022-09-28 08:13,2022-09-28 10:42,96,Medium,Closed
+LOG-0015,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-02,Voltage anomaly,21/06/2022 01:43,2022-06-21 05:04,68,Medium,Closed
+LOG-0465,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-03,Vegetation contact,08-May-2022 22:20,2022-05-09 01:24,81,Medium,Closed
+LOG-0419,SS-02,Sungai Kelana,Cable,SS-02-CAB-02,Voltage anomaly,28-Jul-2022 02:23,2022-07-28 06:41,21,Medium,Closed
+LOG-0085,SS-01,Bukit Hijau,Transformer,SS-01-TRA-04,Cable fault,2022-10-12 11:36,2022-10-13 09:14,332,High,Closed
+LOG-0067,SS-05,SS jalan seri,RMU,SS-05-RMU-03,Cable joint failure,20-Nov-2022 18:05,2022-11-21 00:49,147,High,Closed
+LOG-0051,SS-04,Lembah Biru,CT/VT,SS-04-CTV-05,Switchgear alarm,08-Jan-2022 05:41,2022-01-08 08:34,51,Low,Closed
+LOG-0108,SS-05,Jalan Seri,RMU,SS-05-RMU-05,Cable joint failure,2022-04-05 02:50,05/04/2022 16:05,320,High,Closed
+LOG-0349,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-02,Switchgear alarm,2022-07-23 00:17,2022-07-23 01:17,35,Low,Closed
+LOG-0283,SS-02,Sungai Kelana,Transformer,SS-02-TRA-03,Cable fault,2022-06-02 12:45,2022-06-02 17:54,282,High,Closed
+LOG-0567,SS-05,Jalan Seri,RMU,SS-05-RMU-01,Pole damage,28/02/2022 14:50,2022-02-28 19:01,108,Medium,Closed
+LOG-0130,SS-05,Jalan Seri,Cable,SS-05-CAB-03,Cable fault,2022-05-21 03:31,2022-05-21 14:04,347,High,Closed
+LOG-0056,SS-05,Jalan Seri,Cable,SS-05-CAB-01,Cable fault,2022-01-09 01:42,2022-01-09 14:46,58,High,Closed
+LOG-0410,SS-03,Taman Mawar,Switchgear,SS-03-SWI-04,Cable fault,2022-06-09 12:30,2022-06-09 21:21,141,High,Closed
+LOG-0363,SS-04,Lembah Biru,CT/VT,SS-04-CTV-03,Switchgear alarm,25-Jun-2022 11:42,2022-06-25 12:55,20,Low,Closed
+LOG-0420,SS-01,Bukit Hijau,Cable,SS-01-CAB-03,Vegetation contact,2022-05-09 22:41,10/05/2022 03:19,234,Medium,Closed
+LOG-0185,SS-02,Sungai Kelana,Cable,SS-02-CAB-02,Transformer oil issue,2022-07-28 13:43,2022-07-29 05:14,62,High,Closed
+LOG-0468,SS-04,SS lembah biru,CT/VT,SS-04-CTV-01,Switchgear alarm,02-Dec-2022 10:05,2022-12-02 11:54,23,Low,Closed
+LOG-0045,SS-03,Taman Mawar,Cable,SS-03-CAB-03,Switchgear alarm,2022-06-22 08:18,22-Jun-2022 10:57,39,Low,Closed
+LOG-0111,SS-04,Lembah Biru,CT/VT,SS-04-CTV-02,Switchgear alarm,2022-02-28 01:21,28/02/2022 02:39,14,Low,Closed
+LOG-0153,SS-02,Sungai Kelana,Cable,SS-02-CAB-01,Cable joint failure,2022-01-27 22:16,2022-01-28 09:26,258,High,Closed
+LOG-0324,SS-04,Lembah Biru,Transformer,SS-04-TRA-01,Vegetation contact,2022-03-18 17:56,2022-03-18 22:42,31,Medium,Closed
+LOG-0406,SS-05,Jalan Seri,Cable,SS-05-CAB-02,Cable fault,2022-07-31 08:51,2022-07-31 18:11,474,High,Closed
+LOG-0376,SS-05,Jalan Seri,Cable,SS-05-CAB-01,Switchgear alarm,2022-10-20 13:02,20-Oct-2022 15:26,68,Low,Closed
+LOG-0439,SS-05,Jalan Seri,Switchgear,SS-05-SWI-03,Transformer oil issue,2022-10-08 10:55,2022-10-09 00:09,63,High,Closed
+LOG-0328,SS-02,Sungai Kelana,Transformer,SS-02-TRA-02,Pole damage,2022-09-15 08:33,2022-09-15 15:54,74,Medium,Closed
+LOG-0352,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-03,Vegetation contact,2022-05-15 01:53,15/05/2022 05:47,119,Medium,Closed
+LOG-0484,SS-05,Jalan Seri,Switchgear,SS-05-SWI-02,Voltage anomaly,2022-11-05 21:09,06/11/2022 01:49,40,Medium,Closed
+LOG-0412,SS-03,SS taman mawar,Cable,SS-03-CAB-03,Cable fault,17-Oct-2022 19:22,2022-10-18 04:11,344,High,Closed
+LOG-0188,SS-03,SS taman mawar,Switchgear,SS-03-SWI-03,Switchgear alarm,01/10/2022 04:31,01/10/2022 06:48,36,Low,Closed
+LOG-0020,SS-04,Lembah Biru,Transformer,SS-04-TRA-01,Pole damage,20-Jul-2022 23:20,2022-07-21 03:24,242,Medium,Closed
+LOG-0133,SS-05,Jalan Seri,RMU,SS-05-RMU-01,Voltage anomaly,2022-08-09 15:11,2022-08-09 18:20,53,Medium,Closed
+LOG-0489,SS-01,Bukit Hijau,Cable,SS-01-CAB-01,Switchgear alarm,2022-06-20 00:54,2022-06-20 02:50,35,Low,Closed
+LOG-0378,SS-04,Lembah Biru,CT/VT,SS-04-CTV-05,Pole damage,2022-11-26 01:26,2022-11-26 09:36,272,Medium,Closed
+LOG-0552,SS-01,SS bukit hijau,Transformer,SS-01-TRA-01,Switchgear alarm,2022-08-06 22:25,2022-08-07 00:20,26,Low,Closed
+LOG-0064,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-03,Cable fault,2022-06-08 09:09,2022-06-08 17:10,169,High,Closed
+LOG-0587,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-02,Cable joint failure,2022-04-14 20:56,2022-04-15 06:54,98,High,Closed
+LOG-0139,SS-02,SS sungai kelana,Cable,SS-02-CAB-04,Cable joint failure,2022-07-29 13:34,2022-07-29 17:40,392,High,Closed
+LOG-0239,SS-05,Jalan Seri,Switchgear,SS-05-SWI-03,Pole damage,2022-07-06 08:53,2022-07-06 16:04,166,Medium,Closed
+LOG-0120,SS-05,Jalan Seri,Cable,SS-05-CAB-01,Voltage anomaly,2022-05-02 04:09,02-May-2022 06:09,41,Medium,Closed
+LOG-0509,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-02,Cable fault,01/09/2022 16:15,2022-09-02 04:47,142,High,Closed
+LOG-0461,SS-02,Sungai Kelana,Transformer,SS-02-TRA-02,Voltage anomaly,2022-11-27 04:19,2022-11-27 09:41,30,Medium,Closed
+LOG-0161,SS-05,Jalan Seri,RMU,SS-05-RMU-03,Voltage anomaly,2022-03-17 09:55,17/03/2022 12:06,60,Medium,Closed
+LOG-0348,SS-04,Lembah Biru,Transformer,SS-04-TRA-02,Cable fault,2022-09-05 16:19,06/09/2022 02:25,110,High,Closed
+LOG-0357,SS-03,SS taman mawar,Switchgear,SS-03-SWI-05,Voltage anomaly,2022-10-16 20:07,16-Oct-2022 22:55,20,Medium,Closed
+LOG-0490,SS-01,Bukit Hijau,Circuit Breaker,SS-01-CIR-01,Cable fault,24-Jun-2022 11:56,2022-06-24 18:18,217,High,Closed
+LOG-0063,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-02,Cable fault,2022-02-09 05:12,2022-02-09 16:33,68,High,Closed
+LOG-0427,SS-04,Lembah Biru,CT/VT,SS-04-CTV-03,Voltage anomaly,22/06/2022 19:10,2022-06-23 00:01,37,Medium,Closed
+LOG-0218,SS-05,Jalan Seri,Switchgear,SS-05-SWI-02,Cable fault,2022-05-26 12:53,2022-05-26 19:27,158,High,Closed
+LOG-0483,SS-02,SUNGAI KELANA,Switchgear,SS-02-SWI-02,Switchgear alarm,2022-06-05 00:12,2022-06-05 01:12,30,Low,Closed
+LOG-0264,SS-05,Jalan Seri,RMU,SS-05-RMU-02,Voltage anomaly,2022-11-01 06:09,2022-11-01 08:24,25,Medium,Closed
+LOG-0155,SS-02,Sungai Kelana,Cable,SS-02-CAB-04,Voltage anomaly,07-Mar-2022 05:52,2022-03-07 08:46,34,Medium,Closed
+LOG-0231,SS-04,Lembah Biru,CT/VT,SS-04-CTV-02,Cable fault,2022-02-18 14:25,19-Feb-2022 08:03,145,High,Closed
+LOG-0565,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-01,Cable fault,2022-08-30 15:31,2022-08-30 20:44,229,High,Closed
+LOG-0455,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-03,Cable fault,2022-08-04 15:07,2022-08-04 22:01,167,High,Closed
+LOG-0138,SS-04,LEMBAH BIRU,Transformer,SS-04-TRA-01,Switchgear alarm,2022-11-07 16:55,2022-11-07 18:58,73,Low,Closed
+LOG-0029,SS-03,Taman Mawar,Cable,SS-03-CAB-03,Switchgear alarm,2022-08-26 19:40,2022-08-26 22:30,21,Low,Closed
+LOG-0440,SS-04,Lembah Biru,Transformer,SS-04-TRA-02,Cable fault,24-Jun-2022 20:17,2022-06-25 06:02,145,High,Closed
+LOG-0371,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-02,Cable fault,2022-03-15 06:48,15/03/2022 14:41,226,High,Closed
+LOG-0176,SS-01,SS bukit hijau,Circuit Breaker,SS-01-CIR-03,Transformer oil issue,2022-08-24 16:11,2022-08-25 03:34,36,High,Closed
+LOG-0024,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-01,Switchgear alarm,2022-02-19 01:19,2022-02-19 03:32,32,Low,Closed
+LOG-0250,SS-01,Bukit Hijau,Cable,SS-01-CAB-02,Switchgear alarm,2022-09-14 10:40,2022-09-14 12:07,16,Low,Closed
+LOG-0361,SS-04,Lembah Biru,Transformer,SS-04-TRA-03,Voltage anomaly,30/08/2022 14:02,30-Aug-2022 16:46,41,Medium,Closed
+LOG-0321,SS-01,BUKIT HIJAU,Cable,SS-01-CAB-04,Vegetation contact,2022-03-08 19:29,2022-03-08 23:08,165,Medium,Closed
+LOG-0501,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-05,Cable joint failure,2022-12-28 02:02,2022-12-28 09:56,203,High,Closed
+LOG-0387,SS-03,Taman Mawar,Switchgear,SS-03-SWI-02,Cable fault,11-Mar-2022 12:25,11-Mar-2022 20:23,230,High,Closed
+LOG-0047,SS-03,Taman Mawar,Switchgear,SS-03-SWI-03,Pole damage,2022-11-15 08:11,15/11/2022 14:38,128,Medium,Closed
+LOG-0204,SS-01,Bukit Hijau,Transformer,SS-01-TRA-01,Switchgear alarm,2022-11-08 20:30,2022-11-08 22:55,20,Low,Closed
+LOG-0512,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-01,Transformer oil issue,2022-04-24 01:26,24/04/2022 09:14,56,High,Closed
+LOG-0441,SS-04,LEMBAH BIRU,Circuit Breaker,SS-04-CIR-04,Transformer oil issue,2022-06-20 05:57,2022-06-20 11:39,59,High,Closed
+LOG-0062,SS-01,Bukit Hijau,Transformer,SS-01-TRA-03,Vegetation contact,20-Apr-2022 20:49,2022-04-21 00:27,95,Medium,Closed
+LOG-0534,SS-03,Taman Mawar,Switchgear,SS-03-SWI-05,Voltage anomaly,05/12/2022 16:26,05-Dec-2022 19:58,22,Medium,Closed
+LOG-0038,SS-03,Taman Mawar,RMU,SS-03-RMU-02,Voltage anomaly,2022-08-07 10:22,2022-08-07 11:42,71,Medium,Closed
+LOG-0576,SS-05,Jalan Seri,Switchgear,SS-05-SWI-03,Cable joint failure,2022-08-25 15:19,2022-08-26 02:48,389,High,Closed
+LOG-0478,SS-04,Lembah Biru,Transformer,SS-04-TRA-04,Cable fault,2022-08-30 03:27,30/08/2022 11:01,184,High,Closed
+LOG-0589,SS-04,Lembah Biru,CT/VT,SS-04-CTV-04,Transformer oil issue,2022-10-19 03:02,19-Oct-2022 23:03,98,High,Closed
+LOG-0054,SS-01,Bukit Hijau,Transformer,SS-01-TRA-03,Cable fault,01-Apr-2022 08:53,2022-04-01 13:51,167,High,Closed
+LOG-0053,SS-03,Taman Mawar,Switchgear,SS-03-SWI-05,Pole damage,2022-04-27 08:06,2022-04-27 11:06,170,Medium,Closed
+LOG-0334,SS-02,SUNGAI KELANA,Transformer,SS-02-TRA-03,Cable fault,2022-02-08 12:47,2022-02-08 19:42,287,High,Closed
+LOG-0270,SS-03,Taman Mawar,Cable,SS-03-CAB-02,Cable fault,08-Apr-2022 13:15,08/04/2022 23:13,182,High,Closed
+LOG-0097,SS-02,Sungai Kelana,Transformer,SS-02-TRA-02,Cable fault,25-Jul-2022 02:07,25/07/2022 06:28,161,High,Closed
+LOG-0077,SS-03,Taman Mawar,Cable,SS-03-CAB-02,Vegetation contact,13-Dec-2022 21:03,14-Dec-2022 03:01,125,Medium,Closed
+LOG-0091,SS-02,Sungai Kelana,Switchgear,SS-02-SWI-01,Cable fault,10-Dec-2022 10:51,2022-12-10 17:07,200,High,Closed
+LOG-0302,SS-01,Bukit Hijau,Transformer,SS-01-TRA-01,Switchgear alarm,2022-02-11 18:56,11/02/2022 20:27,20,Low,Closed
+LOG-0013,SS-04,Lembah Biru,Transformer,SS-04-TRA-04,Switchgear alarm,05/10/2022 06:33,2022-10-05 07:49,14,Low,Closed
+LOG-0212,SS-04,LEMBAH BIRU,Circuit Breaker,SS-04-CIR-05,Cable fault,06-Jun-2022 10:29,2022-06-06 19:32,73,High,Closed
+LOG-0593,SS-03,SS taman mawar,Cable,SS-03-CAB-01,Cable fault,12-Dec-2022 08:59,2022-12-12 15:57,224,High,Closed
+LOG-0379,SS-02,Sungai Kelana,Transformer,SS-02-TRA-03,Transformer oil issue,2022-06-19 20:38,20-Jun-2022 10:22,35,High,Closed
+LOG-0499,SS-01,BUKIT HIJAU,Transformer,SS-01-TRA-05,Switchgear alarm,2022-10-16 00:53,16-Oct-2022 02:45,39,Low,Closed
+LOG-0245,SS-04,Lembah Biru,CT/VT,SS-04-CTV-01,Switchgear alarm,26/04/2022 19:01,26-Apr-2022 20:08,22,Low,Closed
+LOG-0422,SS-02,Sungai Kelana,Transformer,SS-02-TRA-03,Voltage anomaly,2022-06-20 20:12,2022-06-20 21:59,73,Medium,Closed
+LOG-0082,SS-05,Jalan Seri,Cable,SS-05-CAB-04,Switchgear alarm,11/07/2022 05:44,2022-07-11 07:39,52,Low,Closed
+LOG-0528,SS-02,SUNGAI KELANA,Transformer,SS-02-TRA-01,Pole damage,2022-04-22 04:43,2022-04-22 08:12,100,Medium,Closed
+LOG-0502,SS-03,Taman Mawar,RMU,SS-03-RMU-02,Transformer oil issue,2022-01-23 08:06,2022-01-24 04:44,36,High,Closed
+LOG-0098,SS-01,Bukit Hijau,Cable,SS-01-CAB-01,Transformer oil issue,2022-08-12 15:22,2022-08-12 23:50,101,High,Closed
+LOG-0140,SS-01,Bukit Hijau,Cable,SS-01-CAB-03,Voltage anomaly,2022-11-13 22:51,2022-11-14 01:20,52,Medium,Closed
+LOG-0475,SS-04,Lembah Biru,CT/VT,SS-04-CTV-01,Voltage anomaly,2022-04-12 14:42,,,Medium,Open
+LOG-0507,SS-04,Lembah Biru,CT/VT,SS-04-CTV-02,Voltage anomaly,13/04/2022 02:23,13-Apr-2022 09:06,32,Medium,Closed
+LOG-0273,SS-03,Taman Mawar,RMU,SS-03-RMU-03,Transformer oil issue,2022-03-06 19:02,2022-03-07 14:36,31,High,Closed
+LOG-0167,SS-05,Jalan Seri,Cable,SS-05-CAB-02,Transformer oil issue,26-Mar-2022 03:47,26/03/2022 16:58,53,High,Closed
+LOG-0308,SS-01,Bukit Hijau,Transformer,SS-01-TRA-02,Switchgear alarm,31-Dec-2022 07:06,31-Dec-2022 08:35,23,Low,Closed
+LOG-0049,SS-01,Bukit Hijau,Cable,SS-01-CAB-04,Cable joint failure,2022-05-28 12:47,2022-05-29 00:39,309,High,Closed
+LOG-0460,SS-02,Sungai Kelana,Transformer,SS-02-TRA-01,Switchgear alarm,2022-11-09 11:49,09-Nov-2022 14:14,30,Low,Closed
+LOG-0127,SS-05,Jalan Seri,Switchgear,SS-05-SWI-02,Switchgear alarm,21/10/2022 09:26,2022-10-21 10:49,42,Low,Closed
+LOG-0148,SS-02,Sungai Kelana,Cable,SS-02-CAB-04,Pole damage,22/09/2022 14:42,2022-09-23 02:19,66,Medium,Closed
+LOG-0012,SS-05,Jalan Seri,Cable,SS-05-CAB-04,Cable fault,2022-11-10 23:30,2022-11-11 07:56,123,High,Closed
+LOG-0310,SS-05,Jalan Seri,Cable,SS-05-CAB-02,Voltage anomaly,2022-03-15 17:09,,,Medium,Open
+LOG-0145,SS-01,Bukit Hijau,Circuit Breaker,SS-01-CIR-03,Cable fault,13/10/2022 09:36,2022-10-14 00:42,300,High,Closed
+LOG-0025,SS-05,Jalan Seri,RMU,SS-05-RMU-04,Cable fault,03-Mar-2022 08:16,2022-03-03 12:23,305,High,Closed
+LOG-0019,SS-03,Taman Mawar,Cable,SS-03-CAB-03,Pole damage,04-Dec-2022 07:25,04-Dec-2022 14:32,76,Medium,Closed
+LOG-0241,SS-04,Lembah Biru,CT/VT,SS-04-CTV-03,Voltage anomaly,2022-07-02 02:38,2022-07-02 04:45,74,Medium,Closed
+LOG-0174,SS-03,Taman Mawar,Switchgear,SS-03-SWI-03,Cable joint failure,2022-06-02 10:31,,,High,Open
+LOG-0221,SS-04,Lembah Biru,Circuit Breaker,SS-04-CIR-04,Switchgear alarm,19-Apr-2022 09:05,19-Apr-2022 10:48,15,Low,Closed
